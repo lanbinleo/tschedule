@@ -1,0 +1,6335 @@
+{
+    "1": {
+        "Math": [
+            "AP Pre-Calculus"
+        ],
+        "English": [
+            "English Literature I"
+        ],
+        "Chinese": [
+            "Chinese Culture & History I"
+        ],
+        "Humanities": [
+            "Economics I",
+            "World History I"
+        ],
+        "Science": [
+            "Physics I",
+            "Chemistry I"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "2": {
+        "Math": [
+            "IGCSE Math (Accelerated)"
+        ],
+        "English": [
+            "English I"
+        ],
+        "Chinese": [
+            "Chinese Culture & History I"
+        ],
+        "Humanities": [
+            "Economics I"
+        ],
+        "Science": [
+            "Chemistry I",
+            "Physics I"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "3": {
+        "Math": [
+            "IGCSE Math (Accelerated)"
+        ],
+        "English": [
+            "English Literature I"
+        ],
+        "Chinese": [
+            "Chinese Culture & History I"
+        ],
+        "Humanities": [
+            "Economics I"
+        ],
+        "Science": [
+            "Physics I",
+            "Chemistry I"
+        ],
+        "Computer Science": [
+            "Computer Science I"
+        ],
+        "Art": []
+    },
+    "4": {
+        "Math": [
+            "Math I"
+        ],
+        "English": [
+            "English I"
+        ],
+        "Chinese": [
+            "Chinese Culture & History I"
+        ],
+        "Humanities": [
+            "Economics I",
+            "World History I"
+        ],
+        "Science": [
+            "Biology I"
+        ],
+        "Computer Science": [
+            "Computer Science I"
+        ],
+        "Art": []
+    },
+    "5": {
+        "Math": [
+            "IGCSE Math (Accelerated)"
+        ],
+        "English": [
+            "English Literature I"
+        ],
+        "Chinese": [
+            "Chinese Culture & History I"
+        ],
+        "Humanities": [
+            "Economics I",
+            "World History I"
+        ],
+        "Science": [
+            "Physics I",
+            "Chemistry I"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "6": {
+        "Math": [
+            "Math I"
+        ],
+        "English": [
+            "English Literature I"
+        ],
+        "Chinese": [
+            "Chinese Culture & History I"
+        ],
+        "Humanities": [
+            "World History I",
+            "Geography I"
+        ],
+        "Science": [
+            "Biology I",
+            "Physics I"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "7": {
+        "Math": [
+            "Math I"
+        ],
+        "English": [
+            "English I"
+        ],
+        "Chinese": [
+            "Chinese Culture & History I"
+        ],
+        "Humanities": [
+            "Economics I"
+        ],
+        "Science": [
+            "Physics I",
+            "Chemistry I"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "8": {
+        "Math": [
+            "IGCSE Math (Accelerated)"
+        ],
+        "English": [
+            "English Literature I"
+        ],
+        "Chinese": [
+            "Chinese Culture & History I"
+        ],
+        "Humanities": [
+            "Economics I"
+        ],
+        "Science": [
+            "Chemistry I",
+            "Biology I"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "9": {
+        "Math": [
+            "AP Pre-Calculus"
+        ],
+        "English": [
+            "English Literature I"
+        ],
+        "Chinese": [
+            "Chinese Culture & History I"
+        ],
+        "Humanities": [
+            "Economics I"
+        ],
+        "Science": [
+            "Biology I",
+            "Chemistry I"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "10": {
+        "Math": [
+            "AP Pre-Calculus"
+        ],
+        "English": [
+            "English Literature I"
+        ],
+        "Chinese": [
+            "Chinese Culture & History I"
+        ],
+        "Humanities": [
+            "Economics I",
+            "World History I"
+        ],
+        "Science": [
+            "Physics I"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "11": {
+        "Math": [
+            "IGCSE Math (Accelerated)"
+        ],
+        "English": [
+            "English Literature I"
+        ],
+        "Chinese": [
+            "Chinese Culture & History I"
+        ],
+        "Humanities": [
+            "Economics I"
+        ],
+        "Science": [
+            "Physics I"
+        ],
+        "Computer Science": [
+            "Computer Science I"
+        ],
+        "Art": []
+    },
+    "12": {
+        "Math": [
+            "Math I"
+        ],
+        "English": [
+            "English I"
+        ],
+        "Chinese": [
+            "Chinese Culture & History I"
+        ],
+        "Humanities": [
+            "Economics I",
+            "World History I"
+        ],
+        "Science": [
+            "Chemistry I"
+        ],
+        "Computer Science": [
+            "Computer Science I"
+        ],
+        "Art": []
+    },
+    "13": {
+        "Math": [
+            "Math I"
+        ],
+        "English": [
+            "English I"
+        ],
+        "Chinese": [
+            "Chinese Culture & History I"
+        ],
+        "Humanities": [
+            "Economics I",
+            "World History I"
+        ],
+        "Science": [
+            "Physics I"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "14": {
+        "Math": [
+            "Math I"
+        ],
+        "English": [
+            "English I"
+        ],
+        "Chinese": [
+            "Chinese Culture & History I"
+        ],
+        "Humanities": [
+            "Economics I"
+        ],
+        "Science": [
+            "Chemistry I",
+            "Physics I"
+        ],
+        "Computer Science": [
+            "Computer Science I"
+        ],
+        "Art": []
+    },
+    "15": {
+        "Math": [
+            "IGCSE Math (Accelerated)"
+        ],
+        "English": [
+            "English Literature I"
+        ],
+        "Chinese": [
+            "Chinese Culture & History I"
+        ],
+        "Humanities": [
+            "Economics I",
+            "World History I"
+        ],
+        "Science": [
+            "Biology I",
+            "Chemistry I"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "16": {
+        "Math": [
+            "IGCSE Math (Accelerated)"
+        ],
+        "English": [
+            "English Literature I"
+        ],
+        "Chinese": [
+            "Chinese Culture & History I"
+        ],
+        "Humanities": [
+            "Economics I"
+        ],
+        "Science": [
+            "Biology I",
+            "Chemistry I"
+        ],
+        "Computer Science": [
+            "Computer Science I"
+        ],
+        "Art": []
+    },
+    "17": {
+        "Math": [
+            "IGCSE Math (Accelerated)"
+        ],
+        "English": [
+            "English Literature I"
+        ],
+        "Chinese": [
+            "Chinese Culture & History I"
+        ],
+        "Humanities": [
+            "Economics I"
+        ],
+        "Science": [
+            "Biology I",
+            "Chemistry I"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "18": {
+        "Math": [
+            "IGCSE Math (Accelerated)"
+        ],
+        "English": [
+            "English Literature I"
+        ],
+        "Chinese": [
+            "Chinese Culture & History I"
+        ],
+        "Humanities": [
+            "Economics I",
+            "World History I"
+        ],
+        "Science": [
+            "Physics I"
+        ],
+        "Computer Science": [
+            "Computer Science I"
+        ],
+        "Art": []
+    },
+    "19": {
+        "Math": [
+            "IGCSE Math (Accelerated)"
+        ],
+        "English": [
+            "English Literature I"
+        ],
+        "Chinese": [
+            "Chinese Culture & History I"
+        ],
+        "Humanities": [
+            "Economics I",
+            "World History I"
+        ],
+        "Science": [
+            "Biology I"
+        ],
+        "Computer Science": [
+            "Computer Science I"
+        ],
+        "Art": []
+    },
+    "20": {
+        "Math": [
+            "IGCSE Math (Accelerated)"
+        ],
+        "English": [
+            "English Literature I"
+        ],
+        "Chinese": [
+            "Chinese Culture & History I"
+        ],
+        "Humanities": [
+            "Economics I",
+            "World History I"
+        ],
+        "Science": [
+            "Physics I",
+            "Biology I"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "21": {
+        "Math": [
+            "AP Pre-Calculus"
+        ],
+        "English": [
+            "English Literature I"
+        ],
+        "Chinese": [
+            "Chinese Culture & History I"
+        ],
+        "Humanities": [
+            "Economics I",
+            "World History I"
+        ],
+        "Science": [
+            "Biology I",
+            "Chemistry I"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "22": {
+        "Math": [
+            "Math I"
+        ],
+        "English": [
+            "English I"
+        ],
+        "Chinese": [
+            "Chinese Culture & History I"
+        ],
+        "Humanities": [
+            "Economics I"
+        ],
+        "Science": [
+            "Biology I",
+            "Physics I"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "23": {
+        "Math": [
+            "IGCSE Math (Accelerated)"
+        ],
+        "English": [
+            "English Literature I"
+        ],
+        "Chinese": [
+            "Chinese Culture & History I"
+        ],
+        "Humanities": [
+            "Economics I",
+            "World History I"
+        ],
+        "Science": [
+            "Biology I"
+        ],
+        "Computer Science": [
+            "Computer Science I"
+        ],
+        "Art": []
+    },
+    "24": {
+        "Math": [
+            "AP Pre-Calculus"
+        ],
+        "English": [
+            "English Literature I"
+        ],
+        "Chinese": [
+            "Chinese Culture & History I"
+        ],
+        "Humanities": [
+            "Economics I"
+        ],
+        "Science": [
+            "Physics I"
+        ],
+        "Computer Science": [
+            "Computer Science I"
+        ],
+        "Art": []
+    },
+    "25": {
+        "Math": [
+            "Math I"
+        ],
+        "English": [
+            "English I"
+        ],
+        "Chinese": [
+            "Chinese Culture & History I"
+        ],
+        "Humanities": [
+            "Economics I",
+            "World History I"
+        ],
+        "Science": [
+            "Biology I"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "26": {
+        "Math": [
+            "AP Pre-Calculus"
+        ],
+        "English": [
+            "English Literature I"
+        ],
+        "Chinese": [
+            "Chinese Culture & History I"
+        ],
+        "Humanities": [
+            "Economics I",
+            "World History I"
+        ],
+        "Science": [
+            "Physics I",
+            "Chemistry I"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "27": {
+        "Math": [
+            "AP Pre-Calculus"
+        ],
+        "English": [
+            "English Literature I"
+        ],
+        "Chinese": [],
+        "Humanities": [
+            "Economics I"
+        ],
+        "Science": [
+            "Chemistry I"
+        ],
+        "Computer Science": [
+            "Computer Science I"
+        ],
+        "Art": []
+    },
+    "28": {
+        "Math": [
+            "Math I"
+        ],
+        "English": [
+            "English Literature I"
+        ],
+        "Chinese": [
+            "Chinese Culture & History I"
+        ],
+        "Humanities": [
+            "World History I",
+            "Economics I"
+        ],
+        "Science": [
+            "Physics I"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "29": {
+        "Math": [
+            "IGCSE Math (Accelerated)"
+        ],
+        "English": [
+            "English Literature I"
+        ],
+        "Chinese": [
+            "Chinese Culture & History I"
+        ],
+        "Humanities": [
+            "Economics I",
+            "World History I"
+        ],
+        "Science": [
+            "Chemistry I"
+        ],
+        "Computer Science": [
+            "Computer Science I"
+        ],
+        "Art": []
+    },
+    "30": {
+        "Math": [
+            "IGCSE Math (Accelerated)"
+        ],
+        "English": [
+            "English Literature I"
+        ],
+        "Chinese": [
+            "Chinese Culture & History I"
+        ],
+        "Humanities": [
+            "World History I",
+            "Economics I"
+        ],
+        "Science": [
+            "Physics I",
+            "Chemistry I"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "31": {
+        "Math": [
+            "IGCSE Math (Accelerated)"
+        ],
+        "English": [
+            "English Literature I"
+        ],
+        "Chinese": [
+            "Chinese Culture & History I"
+        ],
+        "Humanities": [
+            "World History I",
+            "Geography I"
+        ],
+        "Science": [
+            "Combined Science I"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "32": {
+        "Math": [
+            "Math I"
+        ],
+        "English": [
+            "English I"
+        ],
+        "Chinese": [
+            "Chinese Culture & History I"
+        ],
+        "Humanities": [
+            "Economics I",
+            "Geography I"
+        ],
+        "Science": [
+            "Chemistry I",
+            "Biology I"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "33": {
+        "Math": [
+            "Math I"
+        ],
+        "English": [
+            "English I"
+        ],
+        "Chinese": [
+            "Chinese Culture & History I"
+        ],
+        "Humanities": [
+            "World History I",
+            "Economics I"
+        ],
+        "Science": [
+            "Biology I",
+            "Combined Science I"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "34": {
+        "Math": [
+            "IGCSE Math (Accelerated)"
+        ],
+        "English": [
+            "English Literature I"
+        ],
+        "Chinese": [
+            "Chinese Culture & History I"
+        ],
+        "Humanities": [
+            "Economics I"
+        ],
+        "Science": [
+            "Physics I",
+            "Chemistry I"
+        ],
+        "Computer Science": [
+            "Computer Science I"
+        ],
+        "Art": []
+    },
+    "35": {
+        "Math": [
+            "Math I"
+        ],
+        "English": [
+            "English I"
+        ],
+        "Chinese": [
+            "Chinese Culture & History I"
+        ],
+        "Humanities": [
+            "Economics I",
+            "World History I"
+        ],
+        "Science": [
+            "Chemistry I",
+            "Physics I"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "36": {
+        "Math": [
+            "AP Pre-Calculus"
+        ],
+        "English": [
+            "English Literature I"
+        ],
+        "Chinese": [
+            "Chinese Culture & History I"
+        ],
+        "Humanities": [
+            "Geography I"
+        ],
+        "Science": [
+            "Chemistry I",
+            "Physics I"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "37": {
+        "Math": [
+            "IGCSE Math (Accelerated)"
+        ],
+        "English": [
+            "English I"
+        ],
+        "Chinese": [
+            "Chinese Culture & History I"
+        ],
+        "Humanities": [
+            "Economics I",
+            "World History I"
+        ],
+        "Science": [
+            "Physics I"
+        ],
+        "Computer Science": [
+            "Computer Science I"
+        ],
+        "Art": []
+    },
+    "38": {
+        "Math": [
+            "AP Pre-Calculus"
+        ],
+        "English": [
+            "English Literature I"
+        ],
+        "Chinese": [
+            "Chinese Culture & History I"
+        ],
+        "Humanities": [
+            "Economics I"
+        ],
+        "Science": [
+            "Biology I",
+            "Chemistry I"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "39": {
+        "Math": [
+            "Math I"
+        ],
+        "English": [
+            "English Literature I"
+        ],
+        "Chinese": [
+            "Chinese Culture & History I"
+        ],
+        "Humanities": [
+            "Economics I",
+            "World History I"
+        ],
+        "Science": [
+            "Biology I"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "40": {
+        "Math": [
+            "Math I"
+        ],
+        "English": [
+            "English I"
+        ],
+        "Chinese": [
+            "Chinese Culture & History I"
+        ],
+        "Humanities": [
+            "Economics I",
+            "Geography I"
+        ],
+        "Science": [
+            "Biology I"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "41": {
+        "Math": [
+            "IGCSE Math (Accelerated)"
+        ],
+        "English": [
+            "English Literature I"
+        ],
+        "Chinese": [
+            "Chinese Culture & History I"
+        ],
+        "Humanities": [
+            "Economics I",
+            "Geography I"
+        ],
+        "Science": [
+            "Physics I",
+            "Biology I"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "42": {
+        "Math": [
+            "IGCSE Math (Accelerated)"
+        ],
+        "English": [
+            "English Literature I"
+        ],
+        "Chinese": [
+            "Chinese Culture & History I"
+        ],
+        "Humanities": [
+            "Economics I",
+            "World History I"
+        ],
+        "Science": [
+            "Biology I",
+            "Chemistry I"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "43": {
+        "Math": [
+            "Math I"
+        ],
+        "English": [
+            "English Literature I"
+        ],
+        "Chinese": [
+            "Chinese Culture & History I"
+        ],
+        "Humanities": [
+            "World History I",
+            "Economics I"
+        ],
+        "Science": [
+            "Physics I"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "44": {
+        "Math": [
+            "Math I"
+        ],
+        "English": [
+            "English I"
+        ],
+        "Chinese": [
+            "Chinese Culture & History I"
+        ],
+        "Humanities": [
+            "Economics I",
+            "World History I"
+        ],
+        "Science": [
+            "Physics I"
+        ],
+        "Computer Science": [
+            "Computer Science I"
+        ],
+        "Art": []
+    },
+    "45": {
+        "Math": [
+            "Math I"
+        ],
+        "English": [
+            "English Literature I"
+        ],
+        "Chinese": [
+            "Chinese Culture & History I"
+        ],
+        "Humanities": [
+            "Economics I"
+        ],
+        "Science": [
+            "Biology I"
+        ],
+        "Computer Science": [
+            "Computer Science I"
+        ],
+        "Art": []
+    },
+    "46": {
+        "Math": [
+            "Math I"
+        ],
+        "English": [
+            "English Literature I"
+        ],
+        "Chinese": [
+            "Chinese as a Second Language I"
+        ],
+        "Humanities": [
+            "World History I"
+        ],
+        "Science": [
+            "Biology I",
+            "Chemistry I"
+        ],
+        "Computer Science": [
+            "Computer Science I"
+        ],
+        "Art": []
+    },
+    "47": {
+        "Math": [
+            "AP Pre-Calculus"
+        ],
+        "English": [
+            "English Literature I"
+        ],
+        "Chinese": [
+            "Chinese Culture & History I"
+        ],
+        "Humanities": [
+            "World History I",
+            "Economics I"
+        ],
+        "Science": [
+            "Biology I",
+            "Chemistry I"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "48": {
+        "Math": [
+            "Math I"
+        ],
+        "English": [
+            "English I"
+        ],
+        "Chinese": [
+            "Chinese Culture & History I"
+        ],
+        "Humanities": [
+            "World History I",
+            "Economics I"
+        ],
+        "Science": [
+            "Biology I"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "49": {
+        "Math": [
+            "IGCSE Math (Accelerated)"
+        ],
+        "English": [
+            "English Literature I"
+        ],
+        "Chinese": [
+            "Chinese Culture & History I"
+        ],
+        "Humanities": [
+            "Economics I"
+        ],
+        "Science": [
+            "Biology I",
+            "Physics I"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "50": {
+        "Math": [
+            "Math I"
+        ],
+        "English": [
+            "English I"
+        ],
+        "Chinese": [
+            "Chinese Culture & History I"
+        ],
+        "Humanities": [
+            "Economics I",
+            "World History I"
+        ],
+        "Science": [
+            "Chemistry I"
+        ],
+        "Computer Science": [
+            "Computer Science I"
+        ],
+        "Art": []
+    },
+    "51": {
+        "Math": [
+            "Math I"
+        ],
+        "English": [
+            "English Literature I"
+        ],
+        "Chinese": [
+            "Chinese Culture & History I"
+        ],
+        "Humanities": [
+            "World History I",
+            "Economics I"
+        ],
+        "Science": [
+            "Biology I"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "52": {
+        "Math": [
+            "AP Pre-Calculus"
+        ],
+        "English": [
+            "English Literature I"
+        ],
+        "Chinese": [
+            "Chinese Culture & History I"
+        ],
+        "Humanities": [
+            "Economics I",
+            "Geography I"
+        ],
+        "Science": [
+            "Physics I"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "53": {
+        "Math": [
+            "Math I"
+        ],
+        "English": [
+            "English Literature I"
+        ],
+        "Chinese": [
+            "Chinese Culture & History I"
+        ],
+        "Humanities": [
+            "World History I",
+            "Economics I"
+        ],
+        "Science": [
+            "Biology I"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "54": {
+        "Math": [
+            "IGCSE Math (Accelerated)"
+        ],
+        "English": [
+            "English Literature I"
+        ],
+        "Chinese": [
+            "Chinese Culture & History I"
+        ],
+        "Humanities": [
+            "Economics I"
+        ],
+        "Science": [
+            "Physics I"
+        ],
+        "Computer Science": [
+            "Computer Science I"
+        ],
+        "Art": []
+    },
+    "55": {
+        "Math": [
+            "Math I"
+        ],
+        "English": [
+            "English Literature I"
+        ],
+        "Chinese": [
+            "Chinese Culture & History I"
+        ],
+        "Humanities": [
+            "Economics I",
+            "Geography I"
+        ],
+        "Science": [
+            "Biology I"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "56": {
+        "Math": [
+            "IGCSE Math (Accelerated)"
+        ],
+        "English": [
+            "English Literature I"
+        ],
+        "Chinese": [
+            "Chinese Culture & History I"
+        ],
+        "Humanities": [
+            "Economics I",
+            "World History I"
+        ],
+        "Science": [
+            "Biology I",
+            "Chemistry I"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "57": {
+        "Math": [
+            "AP Pre-Calculus"
+        ],
+        "English": [
+            "English Literature I"
+        ],
+        "Chinese": [
+            "Chinese Culture & History I"
+        ],
+        "Humanities": [
+            "Economics I",
+            "Geography I"
+        ],
+        "Science": [
+            "Chemistry I",
+            "Physics I"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "58": {
+        "Math": [
+            "IGCSE Math (Accelerated)"
+        ],
+        "English": [
+            "English Literature I"
+        ],
+        "Chinese": [
+            "Chinese Culture & History I"
+        ],
+        "Humanities": [
+            "World History I",
+            "Geography I"
+        ],
+        "Science": [
+            "Biology I"
+        ],
+        "Computer Science": [
+            "Computer Science I"
+        ],
+        "Art": []
+    },
+    "59": {
+        "Math": [
+            "IGCSE Math (Accelerated)"
+        ],
+        "English": [
+            "English I"
+        ],
+        "Chinese": [
+            "Chinese Culture & History I"
+        ],
+        "Humanities": [
+            "World History I",
+            "Economics I"
+        ],
+        "Science": [
+            "Biology I",
+            "Chemistry I"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "60": {
+        "Math": [
+            "Math I"
+        ],
+        "English": [
+            "English I"
+        ],
+        "Chinese": [
+            "Chinese Culture & History I"
+        ],
+        "Humanities": [
+            "Economics I",
+            "Geography I"
+        ],
+        "Science": [
+            "Combined Science I"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "61": {
+        "Math": [
+            "IGCSE Math (Accelerated)"
+        ],
+        "English": [
+            "English I"
+        ],
+        "Chinese": [
+            "Chinese Culture & History I"
+        ],
+        "Humanities": [
+            "World History I",
+            "Economics I"
+        ],
+        "Science": [
+            "Physics I"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "62": {
+        "Math": [
+            "Math I"
+        ],
+        "English": [
+            "English Literature I"
+        ],
+        "Chinese": [
+            "Chinese Culture & History I"
+        ],
+        "Humanities": [
+            "Economics I"
+        ],
+        "Science": [
+            "Physics I",
+            "Combined Science I"
+        ],
+        "Computer Science": [
+            "Computer Science I"
+        ],
+        "Art": []
+    },
+    "63": {
+        "Math": [
+            "AP Pre-Calculus"
+        ],
+        "English": [
+            "English Literature I"
+        ],
+        "Chinese": [
+            "Chinese Culture & History I"
+        ],
+        "Humanities": [
+            "Economics I",
+            "World History I"
+        ],
+        "Science": [
+            "Physics I",
+            "Chemistry I"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "64": {
+        "Math": [
+            "AP Pre-Calculus"
+        ],
+        "English": [
+            "English Literature I"
+        ],
+        "Chinese": [
+            "Chinese Culture & History I"
+        ],
+        "Humanities": [
+            "Economics I",
+            "World History I"
+        ],
+        "Science": [
+            "Chemistry I",
+            "Physics I"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "65": {
+        "Math": [
+            "AP Pre-Calculus"
+        ],
+        "English": [
+            "English Literature I"
+        ],
+        "Chinese": [],
+        "Humanities": [
+            "Geography I",
+            "World History I"
+        ],
+        "Science": [
+            "Physics I",
+            "Biology I"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "66": {
+        "Math": [
+            "AP Pre-Calculus"
+        ],
+        "English": [
+            "English Literature I"
+        ],
+        "Chinese": [
+            "Chinese Culture & History I"
+        ],
+        "Humanities": [
+            "Economics I"
+        ],
+        "Science": [
+            "Physics I",
+            "Chemistry I"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "67": {
+        "Math": [
+            "AP Pre-Calculus"
+        ],
+        "English": [
+            "English I"
+        ],
+        "Chinese": [
+            "Chinese Culture & History I"
+        ],
+        "Humanities": [
+            "World History I"
+        ],
+        "Science": [
+            "Physics I",
+            "Chemistry I"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "68": {
+        "Math": [
+            "Math I"
+        ],
+        "English": [
+            "English Literature I"
+        ],
+        "Chinese": [
+            "Chinese Culture & History I"
+        ],
+        "Humanities": [
+            "Economics I",
+            "Geography I"
+        ],
+        "Science": [
+            "Biology I"
+        ],
+        "Computer Science": [
+            "Computer Science I"
+        ],
+        "Art": []
+    },
+    "69": {
+        "Math": [
+            "IGCSE Math (Accelerated)"
+        ],
+        "English": [
+            "English Literature I"
+        ],
+        "Chinese": [
+            "Chinese Culture & History I"
+        ],
+        "Humanities": [
+            "World History I"
+        ],
+        "Science": [
+            "Chemistry I",
+            "Biology I"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "70": {
+        "Math": [
+            "Math I"
+        ],
+        "English": [
+            "English I"
+        ],
+        "Chinese": [
+            "Chinese Culture & History I"
+        ],
+        "Humanities": [
+            "Economics I"
+        ],
+        "Science": [
+            "Physics I",
+            "Biology I"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "71": {
+        "Math": [
+            "AP Pre-Calculus"
+        ],
+        "English": [
+            "English I"
+        ],
+        "Chinese": [
+            "Chinese Culture & History I"
+        ],
+        "Humanities": [
+            "World History I"
+        ],
+        "Science": [
+            "Physics I",
+            "Chemistry I"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "72": {
+        "Math": [
+            "Math I"
+        ],
+        "English": [
+            "English Literature I"
+        ],
+        "Chinese": [
+            "Chinese Culture & History I"
+        ],
+        "Humanities": [
+            "Economics I"
+        ],
+        "Science": [
+            "Physics I",
+            "Biology I"
+        ],
+        "Computer Science": [
+            "Computer Science I"
+        ],
+        "Art": []
+    },
+    "73": {
+        "Math": [
+            "Math I"
+        ],
+        "English": [
+            "English I"
+        ],
+        "Chinese": [
+            "Chinese Culture & History I"
+        ],
+        "Humanities": [
+            "Economics I"
+        ],
+        "Science": [
+            "Physics I"
+        ],
+        "Computer Science": [
+            "Computer Science I"
+        ],
+        "Art": []
+    },
+    "74": {
+        "Math": [
+            "Math I"
+        ],
+        "English": [
+            "English I"
+        ],
+        "Chinese": [
+            "Chinese Culture & History I"
+        ],
+        "Humanities": [
+            "Economics I"
+        ],
+        "Science": [
+            "Combined Science I"
+        ],
+        "Computer Science": [
+            "Computer Science I"
+        ],
+        "Art": []
+    },
+    "75": {
+        "Math": [
+            "Math I"
+        ],
+        "English": [
+            "English I"
+        ],
+        "Chinese": [
+            "Chinese Culture & History I"
+        ],
+        "Humanities": [
+            "Economics I",
+            "World History I"
+        ],
+        "Science": [
+            "Chemistry I",
+            "Biology I"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "76": {
+        "Math": [
+            "Math I"
+        ],
+        "English": [
+            "English I"
+        ],
+        "Chinese": [
+            "Chinese Culture & History I"
+        ],
+        "Humanities": [
+            "World History I",
+            "Geography I"
+        ],
+        "Science": [
+            "Biology I"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "77": {
+        "Math": [
+            "IGCSE Math (Accelerated)"
+        ],
+        "English": [
+            "English Literature I"
+        ],
+        "Chinese": [
+            "Chinese as a Second Language I"
+        ],
+        "Humanities": [
+            "World History I",
+            "Geography I"
+        ],
+        "Science": [
+            "Biology I"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "78": {
+        "Math": [
+            "Math I"
+        ],
+        "English": [
+            "English I"
+        ],
+        "Chinese": [
+            "Chinese Culture & History I"
+        ],
+        "Humanities": [
+            "World History I",
+            "Geography I"
+        ],
+        "Science": [
+            "Physics I",
+            "Combined Science I"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "79": {
+        "Math": [
+            "AP Pre-Calculus"
+        ],
+        "English": [
+            "English Literature I"
+        ],
+        "Chinese": [
+            "Chinese as a Second Language I"
+        ],
+        "Humanities": [
+            "Economics I",
+            "World History I"
+        ],
+        "Science": [
+            "Physics I",
+            "Chemistry I"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "80": {
+        "Math": [
+            "IGCSE Math (Accelerated)"
+        ],
+        "English": [
+            "English I"
+        ],
+        "Chinese": [
+            "Chinese Culture & History I"
+        ],
+        "Humanities": [
+            "Economics I"
+        ],
+        "Science": [
+            "Physics I",
+            "Chemistry I"
+        ],
+        "Computer Science": [
+            "Computer Science I"
+        ],
+        "Art": []
+    },
+    "81": {
+        "Math": [
+            "IGCSE Math (Accelerated)"
+        ],
+        "English": [
+            "English Literature I"
+        ],
+        "Chinese": [
+            "Chinese Culture & History I"
+        ],
+        "Humanities": [
+            "Economics I"
+        ],
+        "Science": [
+            "Physics I",
+            "Chemistry I"
+        ],
+        "Computer Science": [
+            "Computer Science I"
+        ],
+        "Art": []
+    },
+    "82": {
+        "Math": [
+            "IGCSE Math (Accelerated)"
+        ],
+        "English": [
+            "English Literature I"
+        ],
+        "Chinese": [
+            "Chinese Culture & History I"
+        ],
+        "Humanities": [
+            "Economics I"
+        ],
+        "Science": [
+            "Chemistry I",
+            "Physics I"
+        ],
+        "Computer Science": [
+            "Computer Science I"
+        ],
+        "Art": []
+    },
+    "83": {
+        "Math": [
+            "IGCSE Math (Accelerated)"
+        ],
+        "English": [
+            "English Literature I"
+        ],
+        "Chinese": [
+            "Chinese Culture & History I"
+        ],
+        "Humanities": [
+            "Economics I"
+        ],
+        "Science": [
+            "Physics I",
+            "Chemistry I"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "84": {
+        "Math": [
+            "Math I"
+        ],
+        "English": [
+            "English Literature I"
+        ],
+        "Chinese": [
+            "Chinese as a Second Language I"
+        ],
+        "Humanities": [
+            "World History I",
+            "Geography I"
+        ],
+        "Science": [
+            "Biology I"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "85": {
+        "Math": [
+            "Math I"
+        ],
+        "English": [
+            "English Literature I"
+        ],
+        "Chinese": [
+            "Chinese Culture & History I"
+        ],
+        "Humanities": [
+            "Economics I",
+            "Geography I"
+        ],
+        "Science": [
+            "Physics I"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "86": {
+        "Math": [
+            "AP Pre-Calculus"
+        ],
+        "English": [
+            "English Literature I"
+        ],
+        "Chinese": [
+            "Chinese as a Second Language I"
+        ],
+        "Humanities": [
+            "Economics I",
+            "Geography I"
+        ],
+        "Science": [
+            "Chemistry I",
+            "Physics I"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "87": {
+        "Math": [
+            "AP Pre-Calculus"
+        ],
+        "English": [
+            "English Literature I"
+        ],
+        "Chinese": [
+            "Chinese Culture & History I"
+        ],
+        "Humanities": [
+            "Economics I"
+        ],
+        "Science": [
+            "Physics I",
+            "Biology I"
+        ],
+        "Computer Science": [
+            "Computer Science I"
+        ],
+        "Art": []
+    },
+    "88": {
+        "Math": [
+            "IGCSE Math (Accelerated)"
+        ],
+        "English": [
+            "English Literature I"
+        ],
+        "Chinese": [
+            "Chinese as a Second Language I"
+        ],
+        "Humanities": [
+            "Economics I",
+            "World History I"
+        ],
+        "Science": [
+            "Physics I"
+        ],
+        "Computer Science": [
+            "Computer Science I"
+        ],
+        "Art": []
+    },
+    "89": {
+        "Math": [
+            "IGCSE Math (Accelerated)"
+        ],
+        "English": [
+            "English Literature I"
+        ],
+        "Chinese": [
+            "Chinese Culture & History I"
+        ],
+        "Humanities": [
+            "Economics I"
+        ],
+        "Science": [
+            "Physics I"
+        ],
+        "Computer Science": [
+            "Computer Science I"
+        ],
+        "Art": []
+    },
+    "90": {
+        "Math": [
+            "AP Pre-Calculus"
+        ],
+        "English": [
+            "English Literature I"
+        ],
+        "Chinese": [
+            "Chinese Culture & History I"
+        ],
+        "Humanities": [
+            "Economics I"
+        ],
+        "Science": [
+            "Physics I",
+            "Chemistry I"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "91": {
+        "Math": [
+            "IGCSE Math (Accelerated)"
+        ],
+        "English": [
+            "English Literature I"
+        ],
+        "Chinese": [
+            "Chinese Culture & History I"
+        ],
+        "Humanities": [
+            "Economics I",
+            "Geography I"
+        ],
+        "Science": [
+            "Physics I"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "92": {
+        "Math": [
+            "AP Pre-Calculus"
+        ],
+        "English": [
+            "English Literature I"
+        ],
+        "Chinese": [
+            "Chinese as a Second Language I"
+        ],
+        "Humanities": [
+            "Economics I"
+        ],
+        "Science": [
+            "Physics I",
+            "Biology I"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "93": {
+        "Math": [
+            "AP Pre-Calculus"
+        ],
+        "English": [
+            "English Literature I"
+        ],
+        "Chinese": [
+            "Chinese Culture & History I"
+        ],
+        "Humanities": [
+            "World History I",
+            "Economics I"
+        ],
+        "Science": [
+            "Physics I",
+            "Biology I"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "94": {
+        "Math": [
+            "IGCSE Math (Accelerated)"
+        ],
+        "English": [
+            "English Literature I"
+        ],
+        "Chinese": [
+            "Chinese Culture & History I"
+        ],
+        "Humanities": [
+            "Economics I",
+            "Geography I"
+        ],
+        "Science": [
+            "Physics I"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "95": {
+        "Math": [
+            "IGCSE Math (Accelerated)"
+        ],
+        "English": [
+            "English Literature I"
+        ],
+        "Chinese": [
+            "Chinese Culture & History I"
+        ],
+        "Humanities": [
+            "Economics I",
+            "Geography I"
+        ],
+        "Science": [
+            "Biology I",
+            "Chemistry I"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "96": {
+        "Math": [
+            "Math I"
+        ],
+        "English": [
+            "English Literature I"
+        ],
+        "Chinese": [
+            "Chinese Culture & History I"
+        ],
+        "Humanities": [
+            "World History I",
+            "Geography I"
+        ],
+        "Science": [
+            "Biology I"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "97": {
+        "Math": [
+            "Math I"
+        ],
+        "English": [
+            "English Literature I"
+        ],
+        "Chinese": [
+            "Chinese Culture & History I"
+        ],
+        "Humanities": [
+            "World History I"
+        ],
+        "Science": [
+            "Chemistry I",
+            "Biology I"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "98": {
+        "Math": [
+            "IGCSE Math (Accelerated)"
+        ],
+        "English": [
+            "English I"
+        ],
+        "Chinese": [
+            "Chinese Culture & History I"
+        ],
+        "Humanities": [
+            "World History I"
+        ],
+        "Science": [
+            "Biology I",
+            "Combined Science I"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "99": {
+        "Math": [
+            "Math I"
+        ],
+        "English": [
+            "English Literature I"
+        ],
+        "Chinese": [
+            "Chinese as a Second Language I"
+        ],
+        "Humanities": [
+            "Economics I",
+            "Geography I"
+        ],
+        "Science": [
+            "Physics I",
+            "Chemistry I"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "100": {
+        "Math": [
+            "IGCSE Math"
+        ],
+        "English": [
+            "IGCSE English as a Second Language"
+        ],
+        "Chinese": [
+            "Chinese Culture & History II"
+        ],
+        "Humanities": [
+            "IGCSE History (Year 2)"
+        ],
+        "Science": [
+            "IGCSE Combined Science"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "101": {
+        "Math": [
+            "IGCSE Math"
+        ],
+        "English": [
+            "IGCSE English as a Second Language"
+        ],
+        "Chinese": [
+            "Chinese Culture & History II"
+        ],
+        "Humanities": [
+            "IGCSE Economics",
+            "IGCSE History (Year 2)"
+        ],
+        "Science": [
+            "IGCSE Chemistry"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "102": {
+        "Math": [
+            "IGCSE Math"
+        ],
+        "English": [
+            "IGCSE English as a Second Language"
+        ],
+        "Chinese": [
+            "Chinese Culture & History II"
+        ],
+        "Humanities": [
+            "IGCSE Economics"
+        ],
+        "Science": [
+            "IGCSE Chemistry"
+        ],
+        "Computer Science": [
+            "IGCSE Computer Science"
+        ],
+        "Art": []
+    },
+    "103": {
+        "Math": [
+            "IGCSE Math"
+        ],
+        "English": [
+            "IGCSE English Literature"
+        ],
+        "Chinese": [
+            "Chinese as a Second Language II"
+        ],
+        "Humanities": [
+            "IGCSE Economics"
+        ],
+        "Science": [
+            "IGCSE Physics"
+        ],
+        "Computer Science": [
+            "IGCSE Computer Science"
+        ],
+        "Art": []
+    },
+    "104": {
+        "Math": [
+            "IGCSE Math"
+        ],
+        "English": [
+            "IGCSE English as a Second Language"
+        ],
+        "Chinese": [
+            "Chinese Culture & History II"
+        ],
+        "Humanities": [
+            "IGCSE Economics"
+        ],
+        "Science": [
+            "IGCSE Biology"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "105": {
+        "Math": [
+            "IGCSE Math"
+        ],
+        "English": [
+            "IGCSE English Literature"
+        ],
+        "Chinese": [
+            "Chinese Culture & History II"
+        ],
+        "Humanities": [
+            "IGCSE Economics"
+        ],
+        "Science": [
+            "IGCSE Biology"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "106": {
+        "Math": [
+            "AP Calculus BC"
+        ],
+        "English": [
+            "IGCSE English Literature"
+        ],
+        "Chinese": [
+            "Chinese Culture & History II"
+        ],
+        "Humanities": [
+            "AP Micro & Macro Economics"
+        ],
+        "Science": [
+            "AP Physics 1"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "107": {
+        "Math": [
+            "A Level Math"
+        ],
+        "English": [
+            "IGCSE English Literature"
+        ],
+        "Chinese": [
+            "Chinese Culture & History II"
+        ],
+        "Humanities": [
+            "IGCSE Economics"
+        ],
+        "Science": [
+            "IGCSE Physics",
+            "IGCSE Chemistry"
+        ],
+        "Computer Science": [
+            "IGCSE Computer Science"
+        ],
+        "Art": []
+    },
+    "108": {
+        "Math": [
+            "AP Calculus AB"
+        ],
+        "English": [
+            "IGCSE English Literature"
+        ],
+        "Chinese": [
+            "Chinese Culture & History II"
+        ],
+        "Humanities": [
+            "AP Micro & Macro Economics"
+        ],
+        "Science": [
+            "IGCSE Biology"
+        ],
+        "Computer Science": [
+            "AP Computer Science Principles"
+        ],
+        "Art": []
+    },
+    "109": {
+        "Math": [
+            "IGCSE Additional Math"
+        ],
+        "English": [
+            "IGCSE English Literature"
+        ],
+        "Chinese": [
+            "Chinese Culture & History II"
+        ],
+        "Humanities": [
+            "IGCSE Economics",
+            "IGCSE History (Year 2)"
+        ],
+        "Science": [
+            "IGCSE Physics"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "110": {
+        "Math": [
+            "IGCSE Math"
+        ],
+        "English": [
+            "IGCSE English as a Second Language"
+        ],
+        "Chinese": [
+            "Chinese Culture & History II"
+        ],
+        "Humanities": [
+            "IGCSE Economics"
+        ],
+        "Science": [
+            "IGCSE Physics",
+            "IGCSE Chemistry"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "111": {
+        "Math": [
+            "IGCSE Math"
+        ],
+        "English": [
+            "IGCSE English as a Second Language"
+        ],
+        "Chinese": [
+            "Chinese Culture & History II"
+        ],
+        "Humanities": [
+            "IGCSE Economics"
+        ],
+        "Science": [
+            "IGCSE Chemistry"
+        ],
+        "Computer Science": [
+            "IGCSE Computer Science"
+        ],
+        "Art": []
+    },
+    "112": {
+        "Math": [
+            "A Level Math"
+        ],
+        "English": [
+            "IGCSE English Literature"
+        ],
+        "Chinese": [
+            "Chinese Culture & History II"
+        ],
+        "Humanities": [
+            "IGCSE Economics"
+        ],
+        "Science": [
+            "IGCSE Physics",
+            "IGCSE Chemistry"
+        ],
+        "Computer Science": [
+            "IGCSE Computer Science"
+        ],
+        "Art": []
+    },
+    "113": {
+        "Math": [
+            "AP Calculus AB"
+        ],
+        "English": [
+            "IGCSE English Literature"
+        ],
+        "Chinese": [
+            "Chinese Culture & History II"
+        ],
+        "Humanities": [
+            "AP Micro & Macro Economics"
+        ],
+        "Science": [
+            "IGCSE Chemistry",
+            "AP Physics 1"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "114": {
+        "Math": [
+            "IGCSE Math"
+        ],
+        "English": [
+            "IGCSE English as a Second Language"
+        ],
+        "Chinese": [
+            "Chinese Culture & History II"
+        ],
+        "Humanities": [
+            "IGCSE Economics"
+        ],
+        "Science": [
+            "IGCSE Physics"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "115": {
+        "Math": [
+            "AP Calculus BC"
+        ],
+        "English": [
+            "IGCSE English Literature"
+        ],
+        "Chinese": [
+            "Chinese Culture & History II"
+        ],
+        "Humanities": [
+            "IGCSE History (Year 2)"
+        ],
+        "Science": [
+            "IGCSE Chemistry",
+            "IGCSE Physics"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "116": {
+        "Math": [
+            "AP Calculus BC"
+        ],
+        "English": [
+            "IGCSE English Literature"
+        ],
+        "Chinese": [
+            "Chinese Culture & History II"
+        ],
+        "Humanities": [
+            "AP Micro & Macro Economics"
+        ],
+        "Science": [
+            "AP Physics 1"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "117": {
+        "Math": [
+            "IGCSE Math"
+        ],
+        "English": [
+            "IGCSE English as a Second Language"
+        ],
+        "Chinese": [
+            "Chinese Culture & History II"
+        ],
+        "Humanities": [
+            "IGCSE Economics"
+        ],
+        "Science": [
+            "IGCSE Biology",
+            "IGCSE Chemistry"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "118": {
+        "Math": [
+            "AP Calculus BC"
+        ],
+        "English": [
+            "IGCSE English Literature"
+        ],
+        "Chinese": [
+            "Chinese Culture & History II"
+        ],
+        "Humanities": [
+            "AP Micro & Macro Economics",
+            "IGCSE History (Year 2)"
+        ],
+        "Science": [
+            "AP Physics 1",
+            "IGCSE Chemistry"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "119": {
+        "Math": [
+            "IGCSE Math"
+        ],
+        "English": [
+            "IGCSE English as a Second Language"
+        ],
+        "Chinese": [
+            "Chinese Culture & History II"
+        ],
+        "Humanities": [
+            "IGCSE Economics"
+        ],
+        "Science": [
+            "AP Physics 1",
+            "IGCSE Biology"
+        ],
+        "Computer Science": [
+            "AP Computer Science Principles"
+        ],
+        "Art": []
+    },
+    "120": {
+        "Math": [
+            "IGCSE Additional Math"
+        ],
+        "English": [
+            "IGCSE English Literature"
+        ],
+        "Chinese": [
+            "Chinese Culture & History II"
+        ],
+        "Humanities": [
+            "AP Micro & Macro Economics"
+        ],
+        "Science": [
+            "IGCSE Biology",
+            "AP Physics 1"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "121": {
+        "Math": [
+            "IGCSE Math"
+        ],
+        "English": [
+            "IGCSE English Literature"
+        ],
+        "Chinese": [
+            "Chinese as a Second Language II"
+        ],
+        "Humanities": [
+            "IGCSE Economics"
+        ],
+        "Science": [
+            "IGCSE Combined Science"
+        ],
+        "Computer Science": [
+            "IGCSE Computer Science"
+        ],
+        "Art": []
+    },
+    "122": {
+        "Math": [
+            "IGCSE Additional Math"
+        ],
+        "English": [
+            "IGCSE English Literature"
+        ],
+        "Chinese": [
+            "Chinese Culture & History II"
+        ],
+        "Humanities": [
+            "AP Micro & Macro Economics"
+        ],
+        "Science": [
+            "AP Physics 1"
+        ],
+        "Computer Science": [
+            "IGCSE Computer Science"
+        ],
+        "Art": []
+    },
+    "123": {
+        "Math": [
+            "IGCSE Additional Math"
+        ],
+        "English": [
+            "IGCSE English as a Second Language"
+        ],
+        "Chinese": [
+            "Chinese Culture & History II"
+        ],
+        "Humanities": [
+            "IGCSE Economics"
+        ],
+        "Science": [
+            "IGCSE Biology"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "124": {
+        "Math": [
+            "IGCSE Math"
+        ],
+        "English": [
+            "IGCSE English as a Second Language"
+        ],
+        "Chinese": [
+            "Chinese Culture & History II"
+        ],
+        "Humanities": [
+            "IGCSE Economics"
+        ],
+        "Science": [
+            "IGCSE Physics",
+            "IGCSE Chemistry"
+        ],
+        "Computer Science": [
+            "IGCSE Computer Science"
+        ],
+        "Art": []
+    },
+    "125": {
+        "Math": [
+            "AP Calculus AB"
+        ],
+        "English": [
+            "IGCSE English as a Second Language"
+        ],
+        "Chinese": [
+            "Chinese Culture & History II"
+        ],
+        "Humanities": [
+            "AP Micro & Macro Economics"
+        ],
+        "Science": [
+            "AP Physics 1",
+            "IGCSE Biology"
+        ],
+        "Computer Science": [
+            "IGCSE Computer Science"
+        ],
+        "Art": []
+    },
+    "126": {
+        "Math": [
+            "IGCSE Math"
+        ],
+        "English": [
+            "IGCSE English as a Second Language"
+        ],
+        "Chinese": [
+            "Chinese Culture & History II"
+        ],
+        "Humanities": [
+            "IGCSE Economics",
+            "IGCSE History (Year 2)"
+        ],
+        "Science": [
+            "IGCSE Biology"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "127": {
+        "Math": [
+            "AP Calculus BC"
+        ],
+        "English": [
+            "IGCSE English Literature"
+        ],
+        "Chinese": [
+            "Chinese Culture & History II"
+        ],
+        "Humanities": [
+            "AP Micro & Macro Economics"
+        ],
+        "Science": [
+            "AP Physics 1",
+            "IGCSE Chemistry"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "128": {
+        "Math": [
+            "AP Calculus AB"
+        ],
+        "English": [
+            "IGCSE English Literature"
+        ],
+        "Chinese": [
+            "Chinese Culture & History II"
+        ],
+        "Humanities": [
+            "AP Micro & Macro Economics"
+        ],
+        "Science": [
+            "IGCSE Chemistry",
+            "AP Biology"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "129": {
+        "Math": [
+            "IGCSE Math"
+        ],
+        "English": [
+            "IGCSE English as a Second Language"
+        ],
+        "Chinese": [
+            "Chinese Culture & History II"
+        ],
+        "Humanities": [
+            "IGCSE Economics"
+        ],
+        "Science": [
+            "IGCSE Physics",
+            "IGCSE Chemistry"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "130": {
+        "Math": [
+            "AP Calculus BC"
+        ],
+        "English": [
+            "IGCSE English Literature"
+        ],
+        "Chinese": [
+            "Chinese Culture & History II"
+        ],
+        "Humanities": [
+            "AP Seminar: World History"
+        ],
+        "Science": [
+            "AP Biology"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "131": {
+        "Math": [
+            "AP Calculus BC"
+        ],
+        "English": [
+            "IGCSE English as a Second Language"
+        ],
+        "Chinese": [
+            "Chinese Culture & History II"
+        ],
+        "Humanities": [
+            "AP Micro & Macro Economics",
+            "IGCSE History (Year 2)"
+        ],
+        "Science": [
+            "AP Physics 1"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "132": {
+        "Math": [
+            "AP Calculus AB"
+        ],
+        "English": [
+            "IGCSE English Literature"
+        ],
+        "Chinese": [
+            "Chinese Culture & History II"
+        ],
+        "Humanities": [],
+        "Science": [],
+        "Computer Science": [],
+        "Art": []
+    },
+    "133": {
+        "Math": [
+            "AP Calculus BC"
+        ],
+        "English": [
+            "IGCSE English Literature"
+        ],
+        "Chinese": [
+            "Chinese Culture & History II"
+        ],
+        "Humanities": [
+            "AP Seminar: World History"
+        ],
+        "Science": [
+            "AP Chemistry",
+            "AP Physics 1"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "134": {
+        "Math": [
+            "AP Calculus BC"
+        ],
+        "English": [
+            "IGCSE English Literature"
+        ],
+        "Chinese": [
+            "Chinese Culture & History II"
+        ],
+        "Humanities": [
+            "AP Seminar: World History",
+            "AP Micro & Macro Economics"
+        ],
+        "Science": [
+            "AP Biology"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "135": {
+        "Math": [
+            "AP Calculus BC"
+        ],
+        "English": [
+            "IGCSE English Literature"
+        ],
+        "Chinese": [
+            "Chinese Culture & History II"
+        ],
+        "Humanities": [
+            "AP Seminar: World History",
+            "IGCSE Economics"
+        ],
+        "Science": [
+            "IGCSE Chemistry"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "136": {
+        "Math": [
+            "A Level Math"
+        ],
+        "English": [
+            "IGCSE English Literature"
+        ],
+        "Chinese": [
+            "Chinese Culture & History II"
+        ],
+        "Humanities": [
+            "IGCSE Economics"
+        ],
+        "Science": [
+            "IGCSE Physics",
+            "IGCSE Biology"
+        ],
+        "Computer Science": [
+            "IGCSE Computer Science"
+        ],
+        "Art": []
+    },
+    "137": {
+        "Math": [
+            "IGCSE Math"
+        ],
+        "English": [
+            "IGCSE English Literature"
+        ],
+        "Chinese": [
+            "Chinese Culture & History II"
+        ],
+        "Humanities": [
+            "IGCSE Economics"
+        ],
+        "Science": [
+            "IGCSE Biology"
+        ],
+        "Computer Science": [
+            "IGCSE Computer Science"
+        ],
+        "Art": []
+    },
+    "138": {
+        "Math": [
+            "IGCSE Additional Math"
+        ],
+        "English": [
+            "IGCSE English Literature"
+        ],
+        "Chinese": [
+            "Chinese Culture & History II"
+        ],
+        "Humanities": [],
+        "Science": [],
+        "Computer Science": [],
+        "Art": []
+    },
+    "139": {
+        "Math": [
+            "AP Calculus BC"
+        ],
+        "English": [
+            "IGCSE English Literature"
+        ],
+        "Chinese": [
+            "Chinese Culture & History II"
+        ],
+        "Humanities": [
+            "IGCSE History (Year 2)"
+        ],
+        "Science": [
+            "AP Physics 1",
+            "IGCSE Chemistry"
+        ],
+        "Computer Science": [
+            "IGCSE Computer Science"
+        ],
+        "Art": []
+    },
+    "140": {
+        "Math": [
+            "AP Calculus AB"
+        ],
+        "English": [
+            "IGCSE English Literature"
+        ],
+        "Chinese": [
+            "Chinese Culture & History II"
+        ],
+        "Humanities": [
+            "AP Micro & Macro Economics"
+        ],
+        "Science": [
+            "IGCSE Chemistry",
+            "AP Physics 1"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "141": {
+        "Math": [
+            "AP Calculus BC"
+        ],
+        "English": [
+            "IGCSE English Literature"
+        ],
+        "Chinese": [
+            "Chinese Culture & History II"
+        ],
+        "Humanities": [
+            "AP Micro & Macro Economics"
+        ],
+        "Science": [
+            "AP Physics 1",
+            "IGCSE Chemistry"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "142": {
+        "Math": [
+            "AP Calculus BC"
+        ],
+        "English": [
+            "IGCSE English Literature"
+        ],
+        "Chinese": [
+            "Chinese Culture & History II"
+        ],
+        "Humanities": [
+            "AP Seminar: World History"
+        ],
+        "Science": [
+            "AP Biology",
+            "IGCSE Chemistry"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "143": {
+        "Math": [
+            "IGCSE Math"
+        ],
+        "English": [
+            "IGCSE English as a Second Language"
+        ],
+        "Chinese": [
+            "Chinese Culture & History II"
+        ],
+        "Humanities": [
+            "IGCSE History (Year 2)",
+            "IGCSE Economics"
+        ],
+        "Science": [
+            "IGCSE Combined Science"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "144": {
+        "Math": [
+            "IGCSE Math"
+        ],
+        "English": [
+            "IGCSE English as a Second Language"
+        ],
+        "Chinese": [
+            "Chinese Culture & History II"
+        ],
+        "Humanities": [
+            "IGCSE Economics"
+        ],
+        "Science": [
+            "IGCSE Combined Science"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "145": {
+        "Math": [
+            "IGCSE Additional Math"
+        ],
+        "English": [
+            "IGCSE English Literature"
+        ],
+        "Chinese": [
+            "Chinese Culture & History II"
+        ],
+        "Humanities": [
+            "IGCSE Economics"
+        ],
+        "Science": [
+            "IGCSE Physics"
+        ],
+        "Computer Science": [
+            "IGCSE Computer Science"
+        ],
+        "Art": []
+    },
+    "146": {
+        "Math": [
+            "IGCSE Additional Math"
+        ],
+        "English": [
+            "IGCSE English as a Second Language"
+        ],
+        "Chinese": [
+            "Chinese Culture & History II"
+        ],
+        "Humanities": [
+            "IGCSE Economics"
+        ],
+        "Science": [
+            "AP Physics 1"
+        ],
+        "Computer Science": [
+            "IGCSE Computer Science"
+        ],
+        "Art": []
+    },
+    "147": {
+        "Math": [
+            "A Level Math"
+        ],
+        "English": [
+            "IGCSE English as a Second Language"
+        ],
+        "Chinese": [
+            "Chinese Culture & History II"
+        ],
+        "Humanities": [],
+        "Science": [],
+        "Computer Science": [],
+        "Art": []
+    },
+    "148": {
+        "Math": [
+            "IGCSE Additional Math"
+        ],
+        "English": [
+            "IGCSE English as a Second Language"
+        ],
+        "Chinese": [
+            "Chinese Culture & History II"
+        ],
+        "Humanities": [
+            "IGCSE Economics"
+        ],
+        "Science": [
+            "IGCSE Biology",
+            "IGCSE Physics"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "149": {
+        "Math": [
+            "IGCSE Math"
+        ],
+        "English": [
+            "IGCSE English as a Second Language"
+        ],
+        "Chinese": [
+            "Chinese Culture & History II"
+        ],
+        "Humanities": [
+            "IGCSE Economics",
+            "IGCSE History (Year 2)"
+        ],
+        "Science": [
+            "IGCSE Physics",
+            "IGCSE Biology"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "150": {
+        "Math": [
+            "AP Calculus AB"
+        ],
+        "English": [
+            "IGCSE English Literature"
+        ],
+        "Chinese": [
+            "Chinese Culture & History II"
+        ],
+        "Humanities": [
+            "IGCSE Economics"
+        ],
+        "Science": [
+            "IGCSE Physics"
+        ],
+        "Computer Science": [
+            "AP Computer Science Principles"
+        ],
+        "Art": []
+    },
+    "151": {
+        "Math": [
+            "IGCSE Math"
+        ],
+        "English": [
+            "IGCSE English Literature"
+        ],
+        "Chinese": [
+            "Chinese Culture & History II"
+        ],
+        "Humanities": [
+            "IGCSE Economics",
+            "IGCSE History (Year 2)"
+        ],
+        "Science": [
+            "IGCSE Biology"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "152": {
+        "Math": [
+            "IGCSE Additional Math"
+        ],
+        "English": [
+            "IGCSE English Literature"
+        ],
+        "Chinese": [
+            "Chinese Culture & History II"
+        ],
+        "Humanities": [
+            "AP Micro & Macro Economics"
+        ],
+        "Science": [
+            "AP Physics 1",
+            "IGCSE Chemistry"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "153": {
+        "Math": [
+            "IGCSE Math"
+        ],
+        "English": [
+            "IGCSE English as a Second Language"
+        ],
+        "Chinese": [
+            "Chinese Culture & History II"
+        ],
+        "Humanities": [
+            "IGCSE Economics"
+        ],
+        "Science": [
+            "IGCSE Physics"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "154": {
+        "Math": [
+            "IGCSE Math"
+        ],
+        "English": [
+            "IGCSE English as a Second Language"
+        ],
+        "Chinese": [
+            "Chinese Culture & History II"
+        ],
+        "Humanities": [
+            "IGCSE Economics",
+            "IGCSE History (Year 2)"
+        ],
+        "Science": [
+            "IGCSE Combined Science"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "155": {
+        "Math": [
+            "AP Calculus AB"
+        ],
+        "English": [
+            "IGCSE English Literature"
+        ],
+        "Chinese": [
+            "Chinese Culture & History II"
+        ],
+        "Humanities": [
+            "AP Micro & Macro Economics"
+        ],
+        "Science": [
+            "IGCSE Biology",
+            "IGCSE Chemistry"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "156": {
+        "Math": [
+            "IGCSE Math"
+        ],
+        "English": [
+            "IGCSE English as a Second Language"
+        ],
+        "Chinese": [
+            "Chinese Culture & History II"
+        ],
+        "Humanities": [
+            "IGCSE Economics"
+        ],
+        "Science": [
+            "IGCSE Combined Science"
+        ],
+        "Computer Science": [
+            "IGCSE Computer Science"
+        ],
+        "Art": []
+    },
+    "157": {
+        "Math": [
+            "IGCSE Math"
+        ],
+        "English": [
+            "IGCSE English Literature"
+        ],
+        "Chinese": [
+            "Chinese Culture & History II"
+        ],
+        "Humanities": [
+            "IGCSE History (Year 2)"
+        ],
+        "Science": [
+            "IGCSE Physics"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "158": {
+        "Math": [
+            "AP Calculus AB"
+        ],
+        "English": [
+            "IGCSE English Literature"
+        ],
+        "Chinese": [
+            "Chinese Culture & History II"
+        ],
+        "Humanities": [
+            "IGCSE Economics"
+        ],
+        "Science": [
+            "AP Physics 1",
+            "AP Biology"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "159": {
+        "Math": [
+            "IGCSE Math"
+        ],
+        "English": [
+            "IGCSE English as a Second Language"
+        ],
+        "Chinese": [
+            "Chinese Culture & History II"
+        ],
+        "Humanities": [
+            "IGCSE Economics"
+        ],
+        "Science": [
+            "IGCSE Biology",
+            "IGCSE Chemistry"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "160": {
+        "Math": [
+            "AP Calculus BC"
+        ],
+        "English": [
+            "IGCSE English as a Second Language"
+        ],
+        "Chinese": [
+            "Chinese Culture & History II"
+        ],
+        "Humanities": [
+            "IGCSE Economics"
+        ],
+        "Science": [
+            "AP Physics 1"
+        ],
+        "Computer Science": [
+            "AP Computer Science Principles"
+        ],
+        "Art": []
+    },
+    "161": {
+        "Math": [
+            "IGCSE Additional Math"
+        ],
+        "English": [
+            "IGCSE English Literature"
+        ],
+        "Chinese": [
+            "Chinese Culture & History II"
+        ],
+        "Humanities": [
+            "IGCSE Economics",
+            "AP Seminar: World History"
+        ],
+        "Science": [
+            "AP Physics 1",
+            "IGCSE Chemistry"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "162": {
+        "Math": [
+            "AP Calculus BC"
+        ],
+        "English": [
+            "IGCSE English Literature"
+        ],
+        "Chinese": [
+            "Chinese Culture & History II"
+        ],
+        "Humanities": [],
+        "Science": [],
+        "Computer Science": [],
+        "Art": []
+    },
+    "163": {
+        "Math": [
+            "IGCSE Math"
+        ],
+        "English": [
+            "IGCSE English Literature"
+        ],
+        "Chinese": [
+            "Chinese Culture & History II"
+        ],
+        "Humanities": [
+            "IGCSE Economics"
+        ],
+        "Science": [
+            "IGCSE Physics",
+            "IGCSE Chemistry"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "164": {
+        "Math": [
+            "AP Calculus AB"
+        ],
+        "English": [
+            "IGCSE English Literature"
+        ],
+        "Chinese": [
+            "Chinese Culture & History II"
+        ],
+        "Humanities": [
+            "IGCSE Economics"
+        ],
+        "Science": [
+            "IGCSE Physics"
+        ],
+        "Computer Science": [
+            "IGCSE Computer Science"
+        ],
+        "Art": []
+    },
+    "165": {
+        "Math": [
+            "AP Calculus AB"
+        ],
+        "English": [
+            "IGCSE English as a Second Language"
+        ],
+        "Chinese": [
+            "Chinese Culture & History II"
+        ],
+        "Humanities": [
+            "AP Micro & Macro Economics"
+        ],
+        "Science": [
+            "AP Physics 1"
+        ],
+        "Computer Science": [
+            "IGCSE Computer Science"
+        ],
+        "Art": []
+    },
+    "166": {
+        "Math": [
+            "IGCSE Math"
+        ],
+        "English": [
+            "IGCSE English as a Second Language"
+        ],
+        "Chinese": [
+            "Chinese Culture & History II"
+        ],
+        "Humanities": [
+            "IGCSE Economics"
+        ],
+        "Science": [
+            "IGCSE Physics"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "167": {
+        "Math": [
+            "IGCSE Math"
+        ],
+        "English": [
+            "IGCSE English as a Second Language"
+        ],
+        "Chinese": [
+            "Chinese Culture & History II"
+        ],
+        "Humanities": [
+            "IGCSE Economics",
+            "IGCSE History (Year 2)"
+        ],
+        "Science": [
+            "IGCSE Biology"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "168": {
+        "Math": [
+            "AP Calculus BC"
+        ],
+        "English": [
+            "IGCSE English Literature"
+        ],
+        "Chinese": [
+            "Chinese Culture & History II"
+        ],
+        "Humanities": [
+            "IGCSE Economics"
+        ],
+        "Science": [
+            "AP Physics 1",
+            "IGCSE Combined Science"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "169": {
+        "Math": [
+            "AP Calculus BC"
+        ],
+        "English": [
+            "IGCSE English as a Second Language"
+        ],
+        "Chinese": [
+            "Chinese Culture & History II"
+        ],
+        "Humanities": [
+            "AP Micro & Macro Economics"
+        ],
+        "Science": [
+            "AP Physics 1"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "170": {
+        "Math": [
+            "AP Calculus BC"
+        ],
+        "English": [
+            "IGCSE English Literature"
+        ],
+        "Chinese": [
+            "Chinese Culture & History II"
+        ],
+        "Humanities": [
+            "AP Micro & Macro Economics"
+        ],
+        "Science": [
+            "AP Biology",
+            "IGCSE Chemistry"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "171": {
+        "Math": [
+            "IGCSE Additional Math"
+        ],
+        "English": [
+            "IGCSE English Literature"
+        ],
+        "Chinese": [
+            "Chinese as a Second Language II"
+        ],
+        "Humanities": [
+            "IGCSE History (Year 2)",
+            "IGCSE Economics"
+        ],
+        "Science": [
+            "IGCSE Biology"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "172": {
+        "Math": [
+            "AP Calculus BC"
+        ],
+        "English": [
+            "IGCSE English Literature"
+        ],
+        "Chinese": [
+            "Chinese Culture & History II"
+        ],
+        "Humanities": [
+            "IGCSE History (Year 2)",
+            "AP Micro & Macro Economics"
+        ],
+        "Science": [
+            "AP Physics 1",
+            "IGCSE Chemistry"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "173": {
+        "Math": [
+            "IGCSE Math"
+        ],
+        "English": [
+            "IGCSE English Literature"
+        ],
+        "Chinese": [
+            "Chinese Culture & History II"
+        ],
+        "Humanities": [
+            "IGCSE Economics",
+            "IGCSE History (Year 2)"
+        ],
+        "Science": [
+            "IGCSE Biology"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "174": {
+        "Math": [
+            "AP Calculus BC"
+        ],
+        "English": [
+            "IGCSE English Literature"
+        ],
+        "Chinese": [
+            "Chinese Culture & History II"
+        ],
+        "Humanities": [
+            "IGCSE Economics"
+        ],
+        "Science": [
+            "AP Physics 1"
+        ],
+        "Computer Science": [
+            "AP Computer Science Principles"
+        ],
+        "Art": []
+    },
+    "175": {
+        "Math": [
+            "IGCSE Math"
+        ],
+        "English": [
+            "IGCSE English as a Second Language"
+        ],
+        "Chinese": [
+            "Chinese Culture & History II"
+        ],
+        "Humanities": [
+            "IGCSE Economics"
+        ],
+        "Science": [
+            "IGCSE Biology",
+            "IGCSE Physics"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "176": {
+        "Math": [
+            "AP Calculus BC"
+        ],
+        "English": [
+            "IGCSE English Literature"
+        ],
+        "Chinese": [
+            "Chinese as a Second Language II"
+        ],
+        "Humanities": [
+            "AP Micro & Macro Economics"
+        ],
+        "Science": [
+            "IGCSE Physics"
+        ],
+        "Computer Science": [
+            "AP Computer Science Principles"
+        ],
+        "Art": []
+    },
+    "177": {
+        "Math": [
+            "AP Calculus AB"
+        ],
+        "English": [
+            "IGCSE English as a Second Language"
+        ],
+        "Chinese": [
+            "Chinese Culture & History II"
+        ],
+        "Humanities": [
+            "IGCSE Economics"
+        ],
+        "Science": [
+            "AP Chemistry",
+            "AP Physics 1"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "178": {
+        "Math": [
+            "IGCSE Math"
+        ],
+        "English": [
+            "IGCSE English Literature"
+        ],
+        "Chinese": [
+            "Chinese Culture & History II"
+        ],
+        "Humanities": [
+            "IGCSE Economics",
+            "IGCSE History (Year 2)"
+        ],
+        "Science": [
+            "IGCSE Chemistry"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "179": {
+        "Math": [
+            "AP Calculus BC"
+        ],
+        "English": [
+            "IGCSE English Literature"
+        ],
+        "Chinese": [
+            "Chinese as a Second Language II"
+        ],
+        "Humanities": [
+            "IGCSE Economics"
+        ],
+        "Science": [
+            "AP Physics 1",
+            "IGCSE Chemistry"
+        ],
+        "Computer Science": [
+            "AP Computer Science Principles"
+        ],
+        "Art": []
+    },
+    "180": {
+        "Math": [
+            "IGCSE Math"
+        ],
+        "English": [
+            "IGCSE English as a Second Language"
+        ],
+        "Chinese": [
+            "Chinese Culture & History II"
+        ],
+        "Humanities": [
+            "IGCSE Economics",
+            "IGCSE History (Year 2)"
+        ],
+        "Science": [
+            "IGCSE Chemistry"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "181": {
+        "Math": [
+            "AP Calculus AB"
+        ],
+        "English": [
+            "IGCSE English Literature"
+        ],
+        "Chinese": [
+            "Chinese Culture & History II"
+        ],
+        "Humanities": [
+            "AP Seminar: World History",
+            "AP Micro & Macro Economics"
+        ],
+        "Science": [
+            "IGCSE Chemistry"
+        ],
+        "Computer Science": [
+            "IGCSE Computer Science"
+        ],
+        "Art": []
+    },
+    "182": {
+        "Math": [
+            "IGCSE Math"
+        ],
+        "English": [
+            "IGCSE English as a Second Language"
+        ],
+        "Chinese": [
+            "Chinese Culture & History II"
+        ],
+        "Humanities": [
+            "IGCSE Economics"
+        ],
+        "Science": [
+            "IGCSE Biology"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "183": {
+        "Math": [
+            "IGCSE Math"
+        ],
+        "English": [
+            "IGCSE English as a Second Language"
+        ],
+        "Chinese": [
+            "Chinese Culture & History II"
+        ],
+        "Humanities": [
+            "IGCSE Economics"
+        ],
+        "Science": [
+            "IGCSE Chemistry",
+            "IGCSE Biology"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "184": {
+        "Math": [
+            "AP Calculus AB"
+        ],
+        "English": [
+            "IGCSE English as a Second Language"
+        ],
+        "Chinese": [
+            "Chinese Culture & History II"
+        ],
+        "Humanities": [
+            "IGCSE Economics"
+        ],
+        "Science": [
+            "AP Physics 1",
+            "IGCSE Chemistry"
+        ],
+        "Computer Science": [
+            "IGCSE Computer Science"
+        ],
+        "Art": []
+    },
+    "185": {
+        "Math": [
+            "IGCSE Math"
+        ],
+        "English": [
+            "IGCSE English Literature"
+        ],
+        "Chinese": [
+            "Chinese as a Second Language II"
+        ],
+        "Humanities": [
+            "AP Seminar: World History"
+        ],
+        "Science": [
+            "IGCSE Biology"
+        ],
+        "Computer Science": [
+            "IGCSE Computer Science"
+        ],
+        "Art": []
+    },
+    "186": {
+        "Math": [
+            "AP Calculus BC"
+        ],
+        "English": [
+            "IGCSE English Literature"
+        ],
+        "Chinese": [
+            "Chinese as a Second Language II"
+        ],
+        "Humanities": [
+            "AP Micro & Macro Economics"
+        ],
+        "Science": [
+            "AP Physics 1"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "187": {
+        "Math": [
+            "IGCSE Math"
+        ],
+        "English": [
+            "IGCSE English Literature"
+        ],
+        "Chinese": [
+            "Chinese as a Second Language II"
+        ],
+        "Humanities": [
+            "AP Micro & Macro Economics"
+        ],
+        "Science": [
+            "AP Biology",
+            "IGCSE Chemistry"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "188": {
+        "Math": [
+            "AP Calculus AB"
+        ],
+        "English": [
+            "IGCSE English Literature"
+        ],
+        "Chinese": [
+            "Chinese Culture & History II"
+        ],
+        "Humanities": [
+            "IGCSE Economics"
+        ],
+        "Science": [
+            "IGCSE Chemistry",
+            "AP Biology"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "189": {
+        "Math": [
+            "AP Calculus AB"
+        ],
+        "English": [
+            "IGCSE English Literature"
+        ],
+        "Chinese": [
+            "Chinese as a Second Language II"
+        ],
+        "Humanities": [
+            "AP Micro & Macro Economics",
+            "IGCSE History (Year 2)"
+        ],
+        "Science": [
+            "AP Physics 1"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "190": {
+        "Math": [
+            "IGCSE Math"
+        ],
+        "English": [
+            "IGCSE English Literature"
+        ],
+        "Chinese": [
+            "Chinese as a Second Language II"
+        ],
+        "Humanities": [
+            "IGCSE Economics"
+        ],
+        "Science": [
+            "IGCSE Chemistry",
+            "IGCSE Biology"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "191": {
+        "Math": [
+            "IGCSE Additional Math"
+        ],
+        "English": [
+            "IGCSE English Literature"
+        ],
+        "Chinese": [
+            "Chinese Culture & History II"
+        ],
+        "Humanities": [
+            "IGCSE History (Year 2)",
+            "AP Micro & Macro Economics"
+        ],
+        "Science": [
+            "AP Physics 1"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "192": {
+        "Math": [
+            "IGCSE Additional Math"
+        ],
+        "English": [
+            "IGCSE English as a Second Language"
+        ],
+        "Chinese": [
+            "Chinese Culture & History II"
+        ],
+        "Humanities": [
+            "IGCSE Economics"
+        ],
+        "Science": [
+            "IGCSE Physics",
+            "IGCSE Chemistry"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "193": {
+        "Math": [
+            "IGCSE Math"
+        ],
+        "English": [
+            "IGCSE English as a Second Language"
+        ],
+        "Chinese": [
+            "Chinese Culture & History II"
+        ],
+        "Humanities": [
+            "IGCSE Economics"
+        ],
+        "Science": [
+            "IGCSE Physics",
+            "IGCSE Chemistry"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "194": {
+        "Math": [
+            "IGCSE Math"
+        ],
+        "English": [
+            "IGCSE English Literature"
+        ],
+        "Chinese": [
+            "Chinese as a Second Language II"
+        ],
+        "Humanities": [
+            "IGCSE Economics",
+            "IGCSE History (Year 2)"
+        ],
+        "Science": [
+            "IGCSE Biology",
+            "IGCSE Combined Science"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "195": {
+        "Math": [
+            "AP Calculus AB"
+        ],
+        "English": [
+            "IGCSE English Literature"
+        ],
+        "Chinese": [
+            "Chinese Culture & History II"
+        ],
+        "Humanities": [
+            "AP Micro & Macro Economics",
+            "IGCSE History (Year 2)"
+        ],
+        "Science": [
+            "AP Chemistry"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "196": {
+        "Math": [
+            "AP Calculus BC"
+        ],
+        "English": [
+            "IGCSE English Literature"
+        ],
+        "Chinese": [
+            "Chinese Culture & History II"
+        ],
+        "Humanities": [
+            "IGCSE Economics"
+        ],
+        "Science": [
+            "AP Physics 1",
+            "AP Chemistry"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "197": {
+        "Math": [
+            "Applied Math"
+        ],
+        "English": [
+            "English III"
+        ],
+        "Chinese": [
+            "Chinese Culture & Literature I"
+        ],
+        "Humanities": [
+            "AP Psychology"
+        ],
+        "Science": [
+            "AP Physics 1"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "198": {
+        "Math": [
+            "AS Math"
+        ],
+        "English": [
+            "English Literature III"
+        ],
+        "Chinese": [
+            "Chinese Culture & Literature I"
+        ],
+        "Humanities": [],
+        "Science": [
+            "AS Physics",
+            "AS Chemistry"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "199": {
+        "Math": [
+            "AP Calculus AB"
+        ],
+        "English": [
+            "English Literature III"
+        ],
+        "Chinese": [
+            "Chinese Culture & Literature I"
+        ],
+        "Humanities": [
+            "AP Art History",
+            "AP Micro & Macro Economics"
+        ],
+        "Science": [
+            "AP Environmental Science"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "200": {
+        "Math": [
+            "AP Calculus BC"
+        ],
+        "English": [
+            "English Literature III"
+        ],
+        "Chinese": [],
+        "Humanities": [
+            "AP Psychology"
+        ],
+        "Science": [
+            "AP Biology",
+            "AP Chemistry"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "201": {
+        "Math": [
+            "AS Math"
+        ],
+        "English": [
+            "English Literature III"
+        ],
+        "Chinese": [
+            "A Level Chinese"
+        ],
+        "Humanities": [
+            "AS History"
+        ],
+        "Science": [
+            "AS Biology"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "202": {
+        "Math": [
+            "AS Math"
+        ],
+        "English": [
+            "English Literature III"
+        ],
+        "Chinese": [
+            "Chinese Culture & Literature I"
+        ],
+        "Humanities": [
+            "AS Economics"
+        ],
+        "Science": [
+            "AS Physics",
+            "AS Chemistry"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "203": {
+        "Math": [
+            "AP Statistics"
+        ],
+        "English": [
+            "AP English Language and Composition"
+        ],
+        "Chinese": [],
+        "Humanities": [
+            "AP Psychology"
+        ],
+        "Science": [
+            "AP Biology",
+            "AP Chemistry"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "204": {
+        "Math": [
+            "AP Calculus AB"
+        ],
+        "English": [
+            "English Literature III"
+        ],
+        "Chinese": [
+            "A Level Chinese"
+        ],
+        "Humanities": [
+            "AS Economics"
+        ],
+        "Science": [
+            "Astronomy"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "205": {
+        "Math": [
+            "AP Statistics"
+        ],
+        "English": [
+            "AP English Language and Composition"
+        ],
+        "Chinese": [],
+        "Humanities": [
+            "AP Art History",
+            "Philosophy"
+        ],
+        "Science": [
+            "AP Chemistry"
+        ],
+        "Computer Science": [],
+        "Art": [
+            "AP Drawing"
+        ]
+    },
+    "206": {
+        "Math": [
+            "Applied Math"
+        ],
+        "English": [
+            "English III"
+        ],
+        "Chinese": [],
+        "Humanities": [
+            "Philosophy"
+        ],
+        "Science": [
+            "AS Biology",
+            "Astronomy"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "207": {
+        "Math": [
+            "AS Math"
+        ],
+        "English": [
+            "English Literature III"
+        ],
+        "Chinese": [
+            "A Level Chinese"
+        ],
+        "Humanities": [
+            "AS Economics"
+        ],
+        "Science": [
+            "AS Chemistry"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "208": {
+        "Math": [
+            "A Level Math"
+        ],
+        "English": [
+            "English Literature III"
+        ],
+        "Chinese": [
+            "A Level Chinese"
+        ],
+        "Humanities": [],
+        "Science": [
+            "AS Chemistry",
+            "AS Biology"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "209": {
+        "Math": [
+            "AP Statistics"
+        ],
+        "English": [
+            "AP English Language and Composition"
+        ],
+        "Chinese": [],
+        "Humanities": [
+            "AP Seminar: World History"
+        ],
+        "Science": [
+            "AP Physics C (Mechanics + E&M)"
+        ],
+        "Computer Science": [],
+        "Art": [
+            "AP Music Theory"
+        ]
+    },
+    "210": {
+        "Math": [
+            "AP Calculus BC"
+        ],
+        "English": [
+            "English Literature III"
+        ],
+        "Chinese": [],
+        "Humanities": [
+            "Philosophy"
+        ],
+        "Science": [
+            "AP Physics 1",
+            "AP Chemistry"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "211": {
+        "Math": [
+            "AP Statistics"
+        ],
+        "English": [
+            "AP English Language and Composition"
+        ],
+        "Chinese": [],
+        "Humanities": [],
+        "Science": [],
+        "Computer Science": [],
+        "Art": []
+    },
+    "212": {
+        "Math": [
+            "Applied Math"
+        ],
+        "English": [
+            "English III"
+        ],
+        "Chinese": [
+            "Chinese Culture & Literature I"
+        ],
+        "Humanities": [
+            "Modern World History"
+        ],
+        "Science": [
+            "AP Environmental Science"
+        ],
+        "Computer Science": [],
+        "Art": [
+            "AP Drawing"
+        ]
+    },
+    "213": {
+        "Math": [
+            "Applied Math"
+        ],
+        "English": [
+            "English III"
+        ],
+        "Chinese": [
+            "Chinese Culture & Literature I"
+        ],
+        "Humanities": [
+            "AP Micro & Macro Economics"
+        ],
+        "Science": [
+            "AP Environmental Science"
+        ],
+        "Computer Science": [],
+        "Art": [
+            "AP Drawing"
+        ]
+    },
+    "214": {
+        "Math": [
+            "AP Statistics"
+        ],
+        "English": [
+            "English III"
+        ],
+        "Chinese": [],
+        "Humanities": [
+            "AP Micro & Macro Economics"
+        ],
+        "Science": [
+            "AP Physics 2",
+            "Astronomy"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "215": {
+        "Math": [
+            "AP Statistics"
+        ],
+        "English": [
+            "AP English Language and Composition"
+        ],
+        "Chinese": [],
+        "Humanities": [
+            "Philosophy"
+        ],
+        "Science": [
+            "AP Physics C (Mechanics + E&M)"
+        ],
+        "Computer Science": [
+            "AP Computer Science A"
+        ],
+        "Art": []
+    },
+    "216": {
+        "Math": [
+            "AP Statistics"
+        ],
+        "English": [
+            "AP English Language and Composition"
+        ],
+        "Chinese": [],
+        "Humanities": [],
+        "Science": [
+            "AP Physics C (Mechanics + E&M)",
+            "AP Chemistry"
+        ],
+        "Computer Science": [
+            "AP Computer Science A"
+        ],
+        "Art": []
+    },
+    "217": {
+        "Math": [
+            "AS Math"
+        ],
+        "English": [
+            "English Literature III"
+        ],
+        "Chinese": [],
+        "Humanities": [],
+        "Science": [],
+        "Computer Science": [],
+        "Art": []
+    },
+    "218": {
+        "Math": [
+            "AP Calculus AB"
+        ],
+        "English": [
+            "English Literature III"
+        ],
+        "Chinese": [
+            "Chinese Culture & Literature I"
+        ],
+        "Humanities": [
+            "AP Micro & Macro Economics"
+        ],
+        "Science": [
+            "AP Environmental Science"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "219": {
+        "Math": [
+            "AP Calculus AB"
+        ],
+        "English": [
+            "AP English Language and Composition"
+        ],
+        "Chinese": [],
+        "Humanities": [
+            "AP Micro & Macro Economics",
+            "Modern World History"
+        ],
+        "Science": [
+            "AP Physics 2"
+        ],
+        "Computer Science": [
+            "AP Computer Science Principles"
+        ],
+        "Art": []
+    },
+    "220": {
+        "Math": [
+            "A Level Math"
+        ],
+        "English": [
+            "AS English Literature"
+        ],
+        "Chinese": [],
+        "Humanities": [],
+        "Science": [
+            "AS Biology",
+            "AS Chemistry"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "221": {
+        "Math": [
+            "AP Statistics"
+        ],
+        "English": [
+            "AP English Language and Composition"
+        ],
+        "Chinese": [],
+        "Humanities": [
+            "Modern World History"
+        ],
+        "Science": [
+            "AP Physics C (Mechanics + E&M)"
+        ],
+        "Computer Science": [
+            "AP Computer Science A"
+        ],
+        "Art": []
+    },
+    "222": {
+        "Math": [
+            "AS Math"
+        ],
+        "English": [
+            "English Literature III"
+        ],
+        "Chinese": [
+            "A Level Chinese"
+        ],
+        "Humanities": [
+            "AS History"
+        ],
+        "Science": [
+            "AS Chemistry"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "223": {
+        "Math": [
+            "AP Statistics"
+        ],
+        "English": [
+            "AP English Language and Composition"
+        ],
+        "Chinese": [
+            "Chinese Culture & Literature I"
+        ],
+        "Humanities": [
+            "AP Psychology"
+        ],
+        "Science": [
+            "AP Physics C (Mechanics + E&M)"
+        ],
+        "Computer Science": [
+            "AP Computer Science A"
+        ],
+        "Art": []
+    },
+    "224": {
+        "Math": [
+            "AP Statistics"
+        ],
+        "English": [
+            "English Literature III"
+        ],
+        "Chinese": [
+            "Chinese Culture & Literature I"
+        ],
+        "Humanities": [],
+        "Science": [
+            "AP Physics 2",
+            "Astronomy"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "225": {
+        "Math": [
+            "Applied Math"
+        ],
+        "English": [
+            "English Literature III"
+        ],
+        "Chinese": [],
+        "Humanities": [
+            "AP Psychology"
+        ],
+        "Science": [
+            "AP Environmental Science"
+        ],
+        "Computer Science": [],
+        "Art": [
+            "AP Drawing"
+        ]
+    },
+    "226": {
+        "Math": [
+            "AP Statistics"
+        ],
+        "English": [
+            "English Literature III"
+        ],
+        "Chinese": [],
+        "Humanities": [
+            "AP Micro & Macro Economics"
+        ],
+        "Science": [
+            "AP Physics C (Mechanics + E&M)"
+        ],
+        "Computer Science": [
+            "AP Computer Science Principles"
+        ],
+        "Art": []
+    },
+    "227": {
+        "Math": [
+            "AS Math"
+        ],
+        "English": [
+            "English III"
+        ],
+        "Chinese": [
+            "Chinese Culture & Literature I"
+        ],
+        "Humanities": [
+            "AS Economics"
+        ],
+        "Science": [
+            "AS Chemistry",
+            "AS Physics"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "228": {
+        "Math": [
+            "Applied Math"
+        ],
+        "English": [
+            "English III"
+        ],
+        "Chinese": [],
+        "Humanities": [
+            "AP Psychology",
+            "Philosophy"
+        ],
+        "Science": [
+            "Astronomy",
+            "AP Environmental Science"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "229": {
+        "Math": [
+            "AP Statistics"
+        ],
+        "English": [
+            "English Literature III"
+        ],
+        "Chinese": [],
+        "Humanities": [],
+        "Science": [],
+        "Computer Science": [],
+        "Art": []
+    },
+    "230": {
+        "Math": [
+            "AP Statistics"
+        ],
+        "English": [
+            "English Literature III"
+        ],
+        "Chinese": [],
+        "Humanities": [],
+        "Science": [],
+        "Computer Science": [],
+        "Art": []
+    },
+    "231": {
+        "Math": [
+            "AP Calculus BC"
+        ],
+        "English": [
+            "AP English Language and Composition"
+        ],
+        "Chinese": [],
+        "Humanities": [
+            "Modern World History"
+        ],
+        "Science": [
+            "AP Physics C (Mechanics + E&M)"
+        ],
+        "Computer Science": [
+            "AP Computer Science A"
+        ],
+        "Art": []
+    },
+    "232": {
+        "Math": [
+            "AS Math"
+        ],
+        "English": [
+            "English Literature III"
+        ],
+        "Chinese": [],
+        "Humanities": [],
+        "Science": [
+            "AS Chemistry",
+            "AS Biology"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "233": {
+        "Math": [
+            "AP Calculus AB"
+        ],
+        "English": [
+            "English Literature III"
+        ],
+        "Chinese": [],
+        "Humanities": [
+            "AP Psychology"
+        ],
+        "Science": [
+            "AP Physics 2"
+        ],
+        "Computer Science": [
+            "AP Computer Science A"
+        ],
+        "Art": []
+    },
+    "234": {
+        "Math": [
+            "AS Math"
+        ],
+        "English": [
+            "English Literature III"
+        ],
+        "Chinese": [
+            "A Level Chinese"
+        ],
+        "Humanities": [
+            "AS Economics"
+        ],
+        "Science": [
+            "AS Physics"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "235": {
+        "Math": [
+            "AP Calculus BC"
+        ],
+        "English": [
+            "AP English Language and Composition"
+        ],
+        "Chinese": [
+            "Chinese Culture & Literature I"
+        ],
+        "Humanities": [
+            "AP Seminar: World History"
+        ],
+        "Science": [
+            "AP Physics C (Mechanics + E&M)"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "236": {
+        "Math": [
+            "AP Statistics"
+        ],
+        "English": [
+            "AP English Language and Composition"
+        ],
+        "Chinese": [],
+        "Humanities": [
+            "AP Psychology"
+        ],
+        "Science": [
+            "AP Environmental Science",
+            "Astronomy"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "237": {
+        "Math": [
+            "AP Statistics"
+        ],
+        "English": [
+            "AP English Language and Composition"
+        ],
+        "Chinese": [],
+        "Humanities": [
+            "AP Psychology"
+        ],
+        "Science": [
+            "AP Environmental Science"
+        ],
+        "Computer Science": [
+            "AP Computer Science A"
+        ],
+        "Art": []
+    },
+    "238": {
+        "Math": [
+            "Applied Math"
+        ],
+        "English": [
+            "English III"
+        ],
+        "Chinese": [
+            "AP Chinese"
+        ],
+        "Humanities": [],
+        "Science": [
+            "AP Physics 1"
+        ],
+        "Computer Science": [],
+        "Art": [
+            "AP 2D Art and Design"
+        ]
+    },
+    "239": {
+        "Math": [
+            "AP Statistics"
+        ],
+        "English": [
+            "AP English Language and Composition"
+        ],
+        "Chinese": [],
+        "Humanities": [
+            "Modern World History"
+        ],
+        "Science": [
+            "AP Chemistry",
+            "AP Physics C (Mechanics + E&M)"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "240": {
+        "Math": [
+            "AP Statistics"
+        ],
+        "English": [
+            "English Literature III"
+        ],
+        "Chinese": [],
+        "Humanities": [
+            "AP Psychology"
+        ],
+        "Science": [
+            "AP Physics 1"
+        ],
+        "Computer Science": [
+            "AP Computer Science A"
+        ],
+        "Art": []
+    },
+    "241": {
+        "Math": [
+            "AP Calculus BC"
+        ],
+        "English": [
+            "AP English Language and Composition"
+        ],
+        "Chinese": [],
+        "Humanities": [
+            "Philosophy"
+        ],
+        "Science": [
+            "AP Physics 1"
+        ],
+        "Computer Science": [
+            "AP Computer Science A"
+        ],
+        "Art": []
+    },
+    "242": {
+        "Math": [
+            "AS Math"
+        ],
+        "English": [
+            "English III"
+        ],
+        "Chinese": [
+            "A Level Chinese"
+        ],
+        "Humanities": [
+            "AS Economics"
+        ],
+        "Science": [
+            "AS Chemistry"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "243": {
+        "Math": [
+            "Linear Algebra"
+        ],
+        "English": [
+            "AS English Literature"
+        ],
+        "Chinese": [],
+        "Humanities": [
+            "AS History",
+            "AS Economics"
+        ],
+        "Science": [
+            "AS Chemistry"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "244": {
+        "Math": [
+            "AP Calculus AB"
+        ],
+        "English": [
+            "AP English Language and Composition"
+        ],
+        "Chinese": [
+            "Chinese as a Second Language III"
+        ],
+        "Humanities": [
+            "AP Psychology"
+        ],
+        "Science": [],
+        "Computer Science": [],
+        "Art": [
+            "AP 2D Art and Design"
+        ]
+    },
+    "245": {
+        "Math": [
+            "AS Math"
+        ],
+        "English": [
+            "AS English Literature"
+        ],
+        "Chinese": [
+            "Chinese as a Second Language III"
+        ],
+        "Humanities": [
+            "AS Economics"
+        ],
+        "Science": [
+            "AS Physics"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "246": {
+        "Math": [
+            "AS Math"
+        ],
+        "English": [
+            "English Literature III"
+        ],
+        "Chinese": [],
+        "Humanities": [
+            "AS Economics"
+        ],
+        "Science": [
+            "AS Physics",
+            "Astronomy"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "247": {
+        "Math": [
+            "AP Statistics"
+        ],
+        "English": [
+            "AP English Language and Composition"
+        ],
+        "Chinese": [
+            "Chinese Culture & Literature I"
+        ],
+        "Humanities": [
+            "AP Seminar: World History"
+        ],
+        "Science": [
+            "Astronomy"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "248": {
+        "Math": [
+            "Applied Math"
+        ],
+        "English": [
+            "English III"
+        ],
+        "Chinese": [],
+        "Humanities": [
+            "AP Psychology"
+        ],
+        "Science": [],
+        "Computer Science": [
+            "AP Computer Science Principles"
+        ],
+        "Art": []
+    },
+    "249": {
+        "Math": [
+            "AP Calculus AB"
+        ],
+        "English": [
+            "English Literature III"
+        ],
+        "Chinese": [],
+        "Humanities": [
+            "AP Psychology",
+            "Philosophy"
+        ],
+        "Science": [
+            "AP Environmental Science",
+            "Astronomy"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "250": {
+        "Math": [
+            "AP Calculus BC"
+        ],
+        "English": [
+            "English Literature III"
+        ],
+        "Chinese": [],
+        "Humanities": [
+            "AP Psychology"
+        ],
+        "Science": [
+            "AP Physics 2"
+        ],
+        "Computer Science": [
+            "AP Computer Science A"
+        ],
+        "Art": []
+    },
+    "251": {
+        "Math": [
+            "AP Calculus BC"
+        ],
+        "English": [
+            "English Literature III"
+        ],
+        "Chinese": [
+            "Chinese Culture & Literature I"
+        ],
+        "Humanities": [
+            "AP Psychology"
+        ],
+        "Science": [
+            "AP Environmental Science",
+            "Astronomy"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "252": {
+        "Math": [
+            "AP Calculus BC"
+        ],
+        "English": [
+            "English Literature III"
+        ],
+        "Chinese": [],
+        "Humanities": [
+            "AP Micro & Macro Economics"
+        ],
+        "Science": [
+            "AP Physics 1",
+            "AP Chemistry"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "253": {
+        "Math": [
+            "AP Calculus AB"
+        ],
+        "English": [
+            "AP English Language and Composition"
+        ],
+        "Chinese": [],
+        "Humanities": [
+            "AP Psychology",
+            "Philosophy"
+        ],
+        "Science": [
+            "AP Environmental Science"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "254": {
+        "Math": [
+            "AS Math"
+        ],
+        "English": [
+            "English Literature III"
+        ],
+        "Chinese": [],
+        "Humanities": [
+            "AS Economics"
+        ],
+        "Science": [
+            "AS Physics",
+            "AS Chemistry"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "255": {
+        "Math": [
+            "Applied Math"
+        ],
+        "English": [
+            "AP English Language and Composition"
+        ],
+        "Chinese": [],
+        "Humanities": [],
+        "Science": [],
+        "Computer Science": [],
+        "Art": []
+    },
+    "256": {
+        "Math": [
+            "AP Calculus AB"
+        ],
+        "English": [
+            "AP English Language and Composition"
+        ],
+        "Chinese": [],
+        "Humanities": [
+            "Modern World History",
+            "AP Psychology"
+        ],
+        "Science": [
+            "AP Physics 2",
+            "AP Environmental Science"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "257": {
+        "Math": [
+            "AS Math"
+        ],
+        "English": [
+            "English Literature III"
+        ],
+        "Chinese": [
+            "Chinese Culture & Literature I"
+        ],
+        "Humanities": [
+            "AS Economics"
+        ],
+        "Science": [
+            "AS Chemistry",
+            "AS Physics"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "258": {
+        "Math": [
+            "AP Statistics"
+        ],
+        "English": [
+            "AP English Language and Composition"
+        ],
+        "Chinese": [],
+        "Humanities": [
+            "AP Psychology",
+            "AP Art History"
+        ],
+        "Science": [
+            "AP Environmental Science"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "259": {
+        "Math": [
+            "AS Math"
+        ],
+        "English": [
+            "AS English Literature"
+        ],
+        "Chinese": [
+            "A Level Chinese"
+        ],
+        "Humanities": [],
+        "Science": [],
+        "Computer Science": [],
+        "Art": []
+    },
+    "260": {
+        "Math": [
+            "A Level Math"
+        ],
+        "English": [
+            "English III"
+        ],
+        "Chinese": [
+            "Chinese Culture & Literature I"
+        ],
+        "Humanities": [
+            "AS Economics"
+        ],
+        "Science": [
+            "AS Physics"
+        ],
+        "Computer Science": [],
+        "Art": [
+            "A2 Art and Design"
+        ]
+    },
+    "261": {
+        "Math": [
+            "AP Calculus AB"
+        ],
+        "English": [
+            "English Literature III"
+        ],
+        "Chinese": [],
+        "Humanities": [],
+        "Science": [],
+        "Computer Science": [],
+        "Art": []
+    },
+    "262": {
+        "Math": [
+            "AS Math"
+        ],
+        "English": [
+            "English III"
+        ],
+        "Chinese": [],
+        "Humanities": [],
+        "Science": [
+            "AS Physics",
+            "AS Chemistry",
+            "Astronomy"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "263": {
+        "Math": [
+            "AP Calculus AB"
+        ],
+        "English": [
+            "English Literature III"
+        ],
+        "Chinese": [
+            "Chinese Culture & Literature I"
+        ],
+        "Humanities": [
+            "AP Psychology"
+        ],
+        "Science": [
+            "AP Chemistry",
+            "AP Environmental Science"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "264": {
+        "Math": [
+            "AS Math"
+        ],
+        "English": [
+            "English Literature III"
+        ],
+        "Chinese": [
+            "A Level Chinese"
+        ],
+        "Humanities": [
+            "AS Economics"
+        ],
+        "Science": [
+            "AS Physics"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "265": {
+        "Math": [
+            "AP Statistics"
+        ],
+        "English": [
+            "English III"
+        ],
+        "Chinese": [],
+        "Humanities": [
+            "AP Micro & Macro Economics"
+        ],
+        "Science": [
+            "AP Physics C (Mechanics + E&M)"
+        ],
+        "Computer Science": [
+            "AP Computer Science A"
+        ],
+        "Art": []
+    },
+    "266": {
+        "Math": [
+            "AS Math"
+        ],
+        "English": [
+            "English Literature III"
+        ],
+        "Chinese": [
+            "A Level Chinese"
+        ],
+        "Humanities": [
+            "AS Economics"
+        ],
+        "Science": [
+            "AS Physics"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "267": {
+        "Math": [
+            "Applied Math"
+        ],
+        "English": [
+            "English III"
+        ],
+        "Chinese": [],
+        "Humanities": [
+            "AP Psychology"
+        ],
+        "Science": [
+            "AP Physics 1"
+        ],
+        "Computer Science": [],
+        "Art": [
+            "AP Music Theory"
+        ]
+    },
+    "268": {
+        "Math": [
+            "AS Math"
+        ],
+        "English": [
+            "English Literature III"
+        ],
+        "Chinese": [
+            "Chinese Culture & Literature I"
+        ],
+        "Humanities": [
+            "AS History"
+        ],
+        "Science": [
+            "AS Biology"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "269": {
+        "Math": [
+            "AP Statistics"
+        ],
+        "English": [
+            "AP English Language and Composition"
+        ],
+        "Chinese": [
+            "Chinese as a Second Language III"
+        ],
+        "Humanities": [
+            "Modern World History"
+        ],
+        "Science": [
+            "AP Physics C (Mechanics + E&M)"
+        ],
+        "Computer Science": [
+            "AP Computer Science A"
+        ],
+        "Art": []
+    },
+    "270": {
+        "Math": [
+            "AP Calculus AB"
+        ],
+        "English": [
+            "English Literature III"
+        ],
+        "Chinese": [
+            "Chinese Culture & Literature I"
+        ],
+        "Humanities": [
+            "Modern World History"
+        ],
+        "Science": [
+            "AP Physics 2"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "271": {
+        "Math": [
+            "AP Calculus BC"
+        ],
+        "English": [
+            "English Literature III"
+        ],
+        "Chinese": [
+            "Chinese Culture & Literature I"
+        ],
+        "Humanities": [
+            "AP Micro & Macro Economics"
+        ],
+        "Science": [
+            "Astronomy"
+        ],
+        "Computer Science": [
+            "AP Computer Science Principles"
+        ],
+        "Art": []
+    },
+    "272": {
+        "Math": [
+            "AP Statistics"
+        ],
+        "English": [
+            "AP English Language and Composition"
+        ],
+        "Chinese": [
+            "Chinese Culture & Literature I"
+        ],
+        "Humanities": [],
+        "Science": [
+            "AP Physics C (Mechanics + E&M)"
+        ],
+        "Computer Science": [
+            "AP Computer Science A"
+        ],
+        "Art": []
+    },
+    "273": {
+        "Math": [
+            "AP Statistics"
+        ],
+        "English": [
+            "English Literature IV"
+        ],
+        "Chinese": [
+            "Chinese Culture & Literature I"
+        ],
+        "Humanities": [
+            "AP Art History"
+        ],
+        "Science": [
+            "Astronomy"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "274": {
+        "Math": [
+            "AP Statistics"
+        ],
+        "English": [
+            "English Literature IV"
+        ],
+        "Chinese": [
+            "Chinese Culture & Literature I"
+        ],
+        "Humanities": [],
+        "Science": [
+            "AP Environmental Science"
+        ],
+        "Computer Science": [
+            "AP Computer Science A"
+        ],
+        "Art": []
+    },
+    "275": {
+        "Math": [
+            "Linear Algebra"
+        ],
+        "English": [
+            "AP English Literature and Composition"
+        ],
+        "Chinese": [],
+        "Humanities": [
+            "AP Art History",
+            "AP Seminar: World History"
+        ],
+        "Science": [
+            "AP Environmental Science"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "276": {
+        "Math": [
+            "AP Calculus BC"
+        ],
+        "English": [
+            "English Literature IV"
+        ],
+        "Chinese": [
+            "Chinese Culture & Literature I"
+        ],
+        "Humanities": [
+            "AP Psychology",
+            "Philosophy"
+        ],
+        "Science": [
+            "AP Physics C (Mechanics + E&M)"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "277": {
+        "Math": [
+            "Statistics"
+        ],
+        "English": [
+            "English Literature IV"
+        ],
+        "Chinese": [],
+        "Humanities": [
+            "AP Micro & Macro Economics",
+            "AP Psychology"
+        ],
+        "Science": [],
+        "Computer Science": [
+            "AP Computer Science A"
+        ],
+        "Art": []
+    },
+    "278": {
+        "Math": [
+            "AP Calculus BC"
+        ],
+        "English": [
+            "AP English Literature and Composition"
+        ],
+        "Chinese": [
+            "Chinese Culture & Literature I"
+        ],
+        "Humanities": [
+            "AP Art History",
+            "Philosophy"
+        ],
+        "Science": [],
+        "Computer Science": [],
+        "Art": []
+    },
+    "279": {
+        "Math": [
+            "AP Statistics"
+        ],
+        "English": [
+            "AP English Literature and Composition"
+        ],
+        "Chinese": [
+            "Chinese Culture & Literature I"
+        ],
+        "Humanities": [
+            "AP Seminar: World History"
+        ],
+        "Science": [
+            "AP Physics 2"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "280": {
+        "Math": [
+            "AP Statistics"
+        ],
+        "English": [
+            "AP English Language and Composition"
+        ],
+        "Chinese": [
+            "Chinese Culture & Literature I"
+        ],
+        "Humanities": [
+            "Philosophy"
+        ],
+        "Science": [],
+        "Computer Science": [
+            "AP Computer Science A"
+        ],
+        "Art": []
+    },
+    "281": {
+        "Math": [
+            "AP Statistics"
+        ],
+        "English": [
+            "AP English Literature and Composition"
+        ],
+        "Chinese": [
+            "Chinese as a Second Language III"
+        ],
+        "Humanities": [
+            "Philosophy"
+        ],
+        "Science": [
+            "AP Environmental Science"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "282": {
+        "Math": [
+            "Linear Algebra"
+        ],
+        "English": [
+            "AP English Language and Composition"
+        ],
+        "Chinese": [
+            "Chinese Culture & Literature I"
+        ],
+        "Humanities": [
+            "AP Psychology"
+        ],
+        "Science": [
+            "AP Physics C (Mechanics + E&M)"
+        ],
+        "Computer Science": [],
+        "Art": [
+            "AP Music Theory"
+        ]
+    },
+    "283": {
+        "Math": [
+            "AP Statistics"
+        ],
+        "English": [
+            "AP English Literature and Composition"
+        ],
+        "Chinese": [],
+        "Humanities": [
+            "AP Art History"
+        ],
+        "Science": [
+            "AP Environmental Science"
+        ],
+        "Computer Science": [
+            "AP Computer Science Principles"
+        ],
+        "Art": []
+    },
+    "284": {
+        "Math": [
+            "AP Statistics"
+        ],
+        "English": [
+            "AP English Literature and Composition"
+        ],
+        "Chinese": [
+            "AP Chinese"
+        ],
+        "Humanities": [],
+        "Science": [
+            "AP Environmental Science",
+            "Astronomy"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "285": {
+        "Math": [
+            "Statistics"
+        ],
+        "English": [
+            "AP English Literature and Composition"
+        ],
+        "Chinese": [
+            "Chinese Culture & Literature I"
+        ],
+        "Humanities": [
+            "AP Seminar: World History",
+            "Philosophy"
+        ],
+        "Science": [
+            "AP Environmental Science"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "286": {
+        "Math": [
+            "Linear Algebra"
+        ],
+        "English": [
+            "AP English Literature and Composition"
+        ],
+        "Chinese": [
+            "Chinese Culture & Literature I"
+        ],
+        "Humanities": [
+            "Philosophy"
+        ],
+        "Science": [
+            "AP Physics C (Mechanics + E&M)"
+        ],
+        "Computer Science": [
+            "AP Computer Science Principles"
+        ],
+        "Art": []
+    },
+    "287": {
+        "Math": [
+            "AP Statistics"
+        ],
+        "English": [
+            "AP English Language and Composition"
+        ],
+        "Chinese": [],
+        "Humanities": [],
+        "Science": [],
+        "Computer Science": [],
+        "Art": []
+    },
+    "288": {
+        "Math": [
+            "Linear Algebra"
+        ],
+        "English": [
+            "AP English Language and Composition"
+        ],
+        "Chinese": [
+            "Chinese Culture & Literature I"
+        ],
+        "Humanities": [
+            "AP Psychology"
+        ],
+        "Science": [
+            "AP Environmental Science",
+            "AP Physics 2"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "289": {
+        "Math": [
+            "AP Statistics"
+        ],
+        "English": [
+            "AP English Language and Composition"
+        ],
+        "Chinese": [
+            "Chinese Culture & Literature I"
+        ],
+        "Humanities": [
+            "AP Art History"
+        ],
+        "Science": [
+            "Astronomy"
+        ],
+        "Computer Science": [],
+        "Art": [
+            "AP Music Theory"
+        ]
+    },
+    "290": {
+        "Math": [
+            "Linear Algebra"
+        ],
+        "English": [
+            "AP English Language and Composition"
+        ],
+        "Chinese": [
+            "Chinese Culture & Literature I"
+        ],
+        "Humanities": [
+            "AP Seminar: World History"
+        ],
+        "Science": [
+            "AP Physics 2"
+        ],
+        "Computer Science": [
+            "AP Computer Science A"
+        ],
+        "Art": []
+    },
+    "291": {
+        "Math": [
+            "Statistics"
+        ],
+        "English": [
+            "AP English Language and Composition"
+        ],
+        "Chinese": [
+            "Chinese as a Second Language III"
+        ],
+        "Humanities": [
+            "AP Psychology",
+            "Modern World History"
+        ],
+        "Science": [
+            "Astronomy"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "292": {
+        "Math": [
+            "AP Calculus AB"
+        ],
+        "English": [
+            "AP English Literature and Composition"
+        ],
+        "Chinese": [
+            "Chinese as a Second Language III"
+        ],
+        "Humanities": [
+            "AP Psychology",
+            "Philosophy"
+        ],
+        "Science": [
+            "Astronomy"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "293": {
+        "Math": [
+            "Statistics"
+        ],
+        "English": [
+            "AP English Language and Composition"
+        ],
+        "Chinese": [
+            "Chinese as a Second Language III"
+        ],
+        "Humanities": [
+            "AP Psychology"
+        ],
+        "Science": [
+            "Astronomy"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "294": {
+        "Math": [
+            "AP Statistics"
+        ],
+        "English": [
+            "AP English Literature and Composition"
+        ],
+        "Chinese": [
+            "Chinese as a Second Language III"
+        ],
+        "Humanities": [
+            "Philosophy"
+        ],
+        "Science": [
+            "AP Physics 1"
+        ],
+        "Computer Science": [
+            "AP Computer Science Principles"
+        ],
+        "Art": []
+    },
+    "295": {
+        "Math": [
+            "AP Statistics"
+        ],
+        "English": [
+            "English Literature IV"
+        ],
+        "Chinese": [
+            "Chinese Culture & Literature I"
+        ],
+        "Humanities": [
+            "AP Psychology"
+        ],
+        "Science": [
+            "AP Physics 2"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "296": {
+        "Math": [
+            "Statistics"
+        ],
+        "English": [
+            "English Literature IV"
+        ],
+        "Chinese": [],
+        "Humanities": [],
+        "Science": [],
+        "Computer Science": [],
+        "Art": []
+    },
+    "297": {
+        "Math": [
+            "Statistics"
+        ],
+        "English": [
+            "AP English Language and Composition"
+        ],
+        "Chinese": [
+            "Chinese Culture & Literature I"
+        ],
+        "Humanities": [
+            "Philosophy"
+        ],
+        "Science": [
+            "AP Environmental Science"
+        ],
+        "Computer Science": [],
+        "Art": [
+            "AP Drawing"
+        ]
+    },
+    "298": {
+        "Math": [
+            "AP Statistics"
+        ],
+        "English": [
+            "AP English Language and Composition"
+        ],
+        "Chinese": [
+            "Chinese Culture & Literature I"
+        ],
+        "Humanities": [
+            "Philosophy"
+        ],
+        "Science": [
+            "AP Physics C (Mechanics + E&M)"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "299": {
+        "Math": [
+            "AP Statistics"
+        ],
+        "English": [
+            "AP English Literature and Composition"
+        ],
+        "Chinese": [
+            "Chinese Culture & Literature I"
+        ],
+        "Humanities": [
+            "AP Seminar: World History"
+        ],
+        "Science": [],
+        "Computer Science": [
+            "AP Computer Science Principles"
+        ],
+        "Art": []
+    },
+    "300": {
+        "Math": [
+            "AP Statistics"
+        ],
+        "English": [
+            "English Literature IV"
+        ],
+        "Chinese": [
+            "Chinese Culture & Literature I"
+        ],
+        "Humanities": [
+            "Modern World History"
+        ],
+        "Science": [
+            "Astronomy"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "301": {
+        "Math": [
+            "Linear Algebra"
+        ],
+        "English": [
+            "AP English Literature and Composition"
+        ],
+        "Chinese": [
+            "Chinese Culture & Literature I"
+        ],
+        "Humanities": [],
+        "Science": [
+            "AP Biology"
+        ],
+        "Computer Science": [
+            "AP Computer Science A"
+        ],
+        "Art": [
+            "AP 2D Art and Design"
+        ]
+    },
+    "302": {
+        "Math": [
+            "AP Statistics"
+        ],
+        "English": [
+            "AP English Literature and Composition"
+        ],
+        "Chinese": [],
+        "Humanities": [
+            "AP Psychology"
+        ],
+        "Science": [
+            "AP Environmental Science",
+            "AP Chemistry"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "303": {
+        "Math": [
+            "AP Statistics"
+        ],
+        "English": [
+            "AP English Language and Composition"
+        ],
+        "Chinese": [
+            "Chinese Culture & Literature I"
+        ],
+        "Humanities": [
+            "Modern World History"
+        ],
+        "Science": [],
+        "Computer Science": [],
+        "Art": [
+            "AP 2D Art and Design"
+        ]
+    },
+    "304": {
+        "Math": [
+            "AP Statistics"
+        ],
+        "English": [
+            "AP English Literature and Composition"
+        ],
+        "Chinese": [
+            "Chinese Culture & Literature I"
+        ],
+        "Humanities": [
+            "AP Psychology"
+        ],
+        "Science": [
+            "AP Physics C (Mechanics + E&M)"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "305": {
+        "Math": [
+            "AP Calculus BC"
+        ],
+        "English": [
+            "English Literature IV"
+        ],
+        "Chinese": [
+            "Chinese Culture & Literature I"
+        ],
+        "Humanities": [
+            "AP Psychology"
+        ],
+        "Science": [],
+        "Computer Science": [
+            "AP Computer Science A"
+        ],
+        "Art": []
+    },
+    "306": {
+        "Math": [
+            "Statistics"
+        ],
+        "English": [
+            "English Literature IV"
+        ],
+        "Chinese": [
+            "Chinese Culture & Literature I"
+        ],
+        "Humanities": [
+            "AP Art History"
+        ],
+        "Science": [
+            "AP Environmental Science"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "307": {
+        "Math": [
+            "AP Statistics"
+        ],
+        "English": [
+            "English Literature IV"
+        ],
+        "Chinese": [],
+        "Humanities": [
+            "AP Psychology",
+            "Modern World History"
+        ],
+        "Science": [
+            "AP Physics C (Mechanics + E&M)"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "308": {
+        "Math": [
+            "AP Statistics"
+        ],
+        "English": [
+            "AP English Literature and Composition"
+        ],
+        "Chinese": [
+            "Chinese Culture & Literature I"
+        ],
+        "Humanities": [
+            "AP Psychology"
+        ],
+        "Science": [
+            "AP Chemistry"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "309": {
+        "Math": [
+            "AP Calculus AB"
+        ],
+        "English": [
+            "English Literature IV"
+        ],
+        "Chinese": [
+            "Chinese Culture & Literature I"
+        ],
+        "Humanities": [
+            "Modern World History"
+        ],
+        "Science": [
+            "AP Physics 2"
+        ],
+        "Computer Science": [
+            "AP Computer Science Principles"
+        ],
+        "Art": []
+    },
+    "310": {
+        "Math": [
+            "Statistics"
+        ],
+        "English": [
+            "English Literature IV"
+        ],
+        "Chinese": [
+            "Chinese Culture & Literature I"
+        ],
+        "Humanities": [],
+        "Science": [],
+        "Computer Science": [],
+        "Art": [
+            "AP Drawing"
+        ]
+    },
+    "311": {
+        "Math": [
+            "Statistics"
+        ],
+        "English": [
+            "English Literature IV"
+        ],
+        "Chinese": [
+            "Chinese Culture & Literature I"
+        ],
+        "Humanities": [
+            "Philosophy"
+        ],
+        "Science": [
+            "Astronomy"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "312": {
+        "Math": [
+            "AP Statistics"
+        ],
+        "English": [
+            "AP English Literature and Composition"
+        ],
+        "Chinese": [
+            "Chinese Culture & Literature I"
+        ],
+        "Humanities": [],
+        "Science": [],
+        "Computer Science": [
+            "AP Computer Science A"
+        ],
+        "Art": [
+            "AP 2D Art and Design"
+        ]
+    },
+    "313": {
+        "Math": [
+            "AP Statistics"
+        ],
+        "English": [
+            "English Literature IV"
+        ],
+        "Chinese": [
+            "Chinese Culture & Literature I"
+        ],
+        "Humanities": [
+            "AP Art History"
+        ],
+        "Science": [
+            "AP Physics 2"
+        ],
+        "Computer Science": [],
+        "Art": [
+            "AP 2D Art and Design"
+        ]
+    },
+    "314": {
+        "Math": [
+            "AP Calculus BC"
+        ],
+        "English": [
+            "AP English Language and Composition"
+        ],
+        "Chinese": [
+            "Chinese Culture & Literature I"
+        ],
+        "Humanities": [
+            "AP Psychology",
+            "Modern World History"
+        ],
+        "Science": [],
+        "Computer Science": [],
+        "Art": []
+    },
+    "315": {
+        "Math": [
+            "Statistics"
+        ],
+        "English": [
+            "English Literature IV"
+        ],
+        "Chinese": [
+            "Chinese Culture & Literature I"
+        ],
+        "Humanities": [
+            "AP Psychology"
+        ],
+        "Science": [],
+        "Computer Science": [],
+        "Art": [
+            "AP 2D Art and Design"
+        ]
+    },
+    "316": {
+        "Math": [
+            "Statistics"
+        ],
+        "English": [
+            "English Literature IV"
+        ],
+        "Chinese": [
+            "Chinese Culture & Literature I"
+        ],
+        "Humanities": [
+            "Philosophy"
+        ],
+        "Science": [
+            "Astronomy"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "317": {
+        "Math": [
+            "Statistics"
+        ],
+        "English": [
+            "AP English Language and Composition"
+        ],
+        "Chinese": [],
+        "Humanities": [
+            "Philosophy"
+        ],
+        "Science": [
+            "AP Environmental Science"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "318": {
+        "Math": [
+            "Statistics"
+        ],
+        "English": [
+            "English Literature IV"
+        ],
+        "Chinese": [
+            "Chinese Culture & Literature I"
+        ],
+        "Humanities": [
+            "AP Psychology"
+        ],
+        "Science": [
+            "AP Physics 1"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "319": {
+        "Math": [
+            "AP Statistics"
+        ],
+        "English": [
+            "AP English Literature and Composition"
+        ],
+        "Chinese": [
+            "Chinese Culture & Literature I"
+        ],
+        "Humanities": [
+            "AP Psychology",
+            "Modern World History"
+        ],
+        "Science": [
+            "AP Environmental Science"
+        ],
+        "Computer Science": [],
+        "Art": []
+    },
+    "320": {
+        "Math": [
+            "AP Statistics"
+        ],
+        "English": [
+            "AP English Language and Composition"
+        ],
+        "Chinese": [
+            "Chinese Culture & Literature I"
+        ],
+        "Humanities": [],
+        "Science": [
+            "AP Physics C (Mechanics + E&M)"
+        ],
+        "Computer Science": [
+            "AP Computer Science A"
+        ],
+        "Art": []
+    },
+    "321": {
+        "Math": [
+            "AP Statistics"
+        ],
+        "English": [
+            "English Literature IV"
+        ],
+        "Chinese": [
+            "Chinese Culture & Literature I"
+        ],
+        "Humanities": [
+            "Philosophy"
+        ],
+        "Science": [
+            "AP Environmental Science"
+        ],
+        "Computer Science": [],
+        "Art": []
+    }
+}
